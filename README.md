@@ -4,7 +4,7 @@ Hi, we are in a robotics compition called FLL, and our team name is RobotMakers,
 
 ##Innovation
 
-The innovation project, is 25 percent out of 100 percent. Our innovation project is about helping blind people, or disabled people ski, and what we are going to build for this inovation project is ski goggles with sensors for blind people, that tell you to "Go Left", or "Go Right", and tell you that there is a cliff or a steep drop. We also made slides (here is the link to the slides) which tells you how we were able to do the innovation project, starting from reseaching organizations, and sending emails to the top five, to building things to help people with disabilitles.
+The innovation project is 25 percent out of 100 percent. Our innovation project is about helping blind people, or disabled people ski, and what we are going to build for this inovation project is ski goggles with sensors for blind people, that tell you to "Go Left", or "Go Right", and tell you that there is a cliff or a steep drop. We also made slides (here is the link to the slides) which tells you how we were able to do the innovation project, starting from reseaching organizations, and sending emails to the top five, to building things to help people with disabilitles.
 
 ##Core Values
 
