@@ -1,7 +1,7 @@
-Our strategy for the game was to chose some missions that were easy and quick. Then we made attachments for the missions. 
+Our strategy for the game was to choose some missions that were easy and quick. Then we made attachments for the missions. 
 ## Attachments
 
-We made two types attachments, passive and active. The active attachments needs one or two motors to operate a mission. The passive attachments don't need motors or electronics.
+We made two types of attachments, passive and active. The active attachments need one or two motors to operate a mission. The passive attachments don't need motors or electronics.
 Each attachment had to be efficent and work at least 3-5 times. It took a long time to make them work but it was worth it.
 
 ## Missions we completeted
@@ -12,5 +12,5 @@ Expert Delivery(10 pts), Audience Delivery(40 pts).
 
 ## Testing
 
-We did a lot testing and changed a lot of attachments in the tests. We had a hard time but it was worth it.
+We did a lot of testing and changed a lot of attachments in the tests. We had a hard time but it was worth it.
 
