@@ -1,4 +1,4 @@
-[How We've Had Fun](Fun-Things)
+[How We've Had Fun](Fun-Things.md)
 
 ## Introduction
 
