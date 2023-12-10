@@ -1,4 +1,5 @@
-[How We've Had Fun](Fun-Things.md)[Our Game Strategy](Game-Strategy.md)
+[How We've Had Fun](Fun-Things.md)
+[Our Game Strategy](Game-Strategy.md)
 
 ## Introduction
 
