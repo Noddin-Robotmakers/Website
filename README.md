@@ -1,6 +1,6 @@
-[How We've Had Fun   ](Fun-Things.md)
-[Our Game Strategy   ](Game-Strategy.md)
-[How We Got Together ](How-We-Got-Together.md)
+[How We've Had Fun](Fun-Things.md)   
+[Our Game Strategy](Game-Strategy.md)    
+[How We Got Together](How-We-Got-Together.md) 
 ## Introduction
 
 Hi, we are in a robotics compition called FLL, and our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. We all do FLL (First Lego League), and we all go to Noddin Elementary School, and for anyone who doesn't know about FLL, it's a robotics compition. We code on Pybricks Beta which is like a python coding software, and in this repo we keep the code for the robot to do the missions.
