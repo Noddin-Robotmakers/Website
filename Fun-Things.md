@@ -4,12 +4,14 @@ Some fun things that happened were eating pizza together, high scores in the rob
 
 We ate pizza pretty commonly, mostly when sessions ran over lunchtime or dinnertime. 
 This was also a good time for us to review our progress and what we needed to work on. 
+The pizza also helped us regain some energy after long hours of work and testing.
 
 ## High Robot game scores
 
 High scores in our robot game were pure practice. 
 It was fun when we had to change the code and then we got a better score. 
 Our tests were fun even if we failed. We kept trying till we got it right. 
+
 
 
 ## Mission Mix-Up
