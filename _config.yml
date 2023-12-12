@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+title: Noddin Robotmakers
+nav:
+  - text: Home
+    url: /README.md
+  - text: Game Strategy
+    url: /Game-Strategy.md
+  - text: Fun Things
+    url: /Fun-Things.md
+  - text: How We Got-Together
+    url: /How-We-Got-Together.md
+  - text: Fun
+    url: /Fun.md
+  - text: Teamwork
+    url: /Teamwork.md
