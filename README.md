@@ -3,6 +3,7 @@
 [How We Got Together](How-We-Got-Together.md)   
 [Teamwork -- Core Values](Teamwork.md)   
 [Fun -- Core Values](Fun.md)  
+[Discovery -- Core Values] (Discovery.md)
 [Coding](Coding.md) 
 ## Introduction
 
