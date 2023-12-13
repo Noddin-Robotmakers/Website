@@ -1,11 +1,12 @@
 [How We've Had Fun](Fun-Things.md)   
 [Our Game Strategy](Game-Strategy.md)    
 [How We Got Together](How-We-Got-Together.md)   
+[Coding](Coding.md)   
 [Teamwork -- Core Values](Teamwork.md)   
 [Fun -- Core Values](Fun.md)  
 [Discovery -- Core Values](Discovery.md)   
-[Coding-- Core Values](Coding.md) 
-[Impact-- Core Values](Impact.md) 
+[Impact-- Core Values](Impact.md)    
+[Innovation -- Core Values](Innovation.md)
 ## Introduction
 
 Hi, we are in a robotics competition called FLL, and our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. We all do FLL (First Lego League), and we all go to Noddin Elementary School. For anyone who doesn’t know about FLL, it’s a robotics competition. We code on Pybricks Beta which is like a python coding software, and in this repo, we keep the code for the robot to do the missions.
