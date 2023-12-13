@@ -5,7 +5,6 @@
 [Fun -- Core Values](Fun.md)  
 [Discovery -- Core Values](Discovery.md)   
 [Coding-- Core Values](Coding.md) 
-
 [Impact-- Core Values](Impact.md) 
 ## Introduction
 
