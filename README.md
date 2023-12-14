@@ -9,13 +9,25 @@
 [Innovation -- Core Values](Innovation.md)
 ## Introduction
 
-Hi, we are in a robotics competition called FLL, and our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. We all do FLL (First Lego League), and we all go to Noddin Elementary School. For anyone who doesn’t know about FLL, it’s a robotics competition. We code on Pybricks Beta which is like a python coding software, and in this repo, we keep the code for the robot to do the missions.
+Hi there! We are a team of five students from Noddin Elementary School participating in a robotics competition called FLL (First Lego League). Our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. For those who are not familiar with FLL, it is a robotics competition and we code the robots we build to do certain tasks. We use Pybricks Beta, a Python coding software. We keep the code for the robot to perform various missions in this repository. 
 ## Innovation
 
-The innovation project is 25 percent out of 100 percent. Our innovation project is about helping blind people or disabled people ski, and what we built for this innovation project is ski goggles with sensors for blind people that tell you to “Go left”, or “Go right”, and tell you that there is a cliff or a steep drop. We also made slides (here is the link to the slides) which tell you how we were able to do the innovation project. We started by researching organizations, and then sending emails to the top five websites. Finally, we built prototypes to help people with disabilities.
+Our innovation project is worth 25 percent of our overall score. This project aims to assist blind or disabled people in skiing. We have developed ski goggles equipped with sensors that provide directions like "Go left" or "Go right". The goggles also alert the user of any potential danger, including cliffs or steep drops. We have created slides explaining how we conducted the project, which you can find via this link. Our process began with researching organizations and then reaching out to the top five websites via email. Finally, we constructed prototypes to aid people with disabilities. Our innovation will help improve and help the world.
 
 ## Core Values
 
-Core Values are these six things: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun, and they are what you are supposed to do as a team, it is very important to show these Core Values during the competition, and the meaning of these core values is here: Teamwork means we are stronger when we work together. For example, we help each other with coding, building, and researching. Discovery means we explore new skills and ideas. We explore new skills together like using devices on the computer. Innovation means we use creativity and persistence to solve problems. We build robotics to solve problems like coding the robot. Impact means we apply what we learn to improve the world. We learn together to help the world with our ideas. Inclusion means respecting each other and embracing our differences. We respect each other’s ideas for innovation projects. Fun means we enjoy and celebrate what we do! We had fun together coding, building, and with the innovation project.
+Remember these six Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun. As a team, it is essential to demonstrate these values during the competition. Here's what each Core Value means:
+
+Teamwork: We are stronger when we work together. For instance, we offer each other assistance with coding, building, and researching.
+
+Discovery: We explore new skills and ideas together, such as using devices on the computer.
+
+Innovation: We use creativity and persistence to solve problems. We build robotics to solve problems like coding the robot.
+
+Impact: We apply what we learn to improve the world. We learn together to help the world with our ideas.
+
+Inclusion: We respect each other's ideas for innovation projects and embrace our differences.
+
+Fun: We enjoy and celebrate what we do! We had a great time together coding, building, and working on the innovation project.
 
 ![Our team at the scrimmage](https://drive.google.com/uc?export=view&id=19FzbHOy3OIH4JUkiMoLXOp3r7Wb1ECbq)
