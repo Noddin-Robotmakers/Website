@@ -2,8 +2,8 @@ Inclusion is one of the six Core Values that the judges evaluate.
 
 ## Inclusion
 
-* Inclusion means that we include everybody and let everyone do a job, such as one person being the the coder and one the builder.
-* We allow anyone be a part of the team.
+* Inclusion means that we include everybody and let everyone do a job, such as one person being the coder and one the builder.
+* We allow anyone to be a part of the team.
 
 ## An Example
 
