@@ -8,4 +8,4 @@ Discovery means that we explore new ideas. If a team doesn't discover and explor
 
 We were really stuck on an attachment for Mission 1. We explored and tried, discovering new ideas and many ways to do the mission, until we discovered an attachment that hasn't failed us in quite a while.
 
-![Learning something new!](https://drive.google.com/file/d/1gxAtVf_emmvlds_hjuIv1J09JTfyvQ8F/view?usp=drive_link)
+![Learning something new](https://drive.google.com/file/d/1gxAtVf_emmvlds_hjuIv1J09JTfyvQ8F/view?usp=drive_link)
