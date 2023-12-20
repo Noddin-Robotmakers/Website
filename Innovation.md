@@ -8,3 +8,5 @@ Innovation means we use creativity and persistence to solve our problems. A prob
 
 One time during our robot game match, our robot's hub ran out of battery, but luckily we had an hour to make repairs and use innovation.
 We replaced some stuff, checked it worked, and innovation saved our robot match. Using persistence and creativity, we made our robot work again.
+
+![Our team at the scrimmage](https://drive.google.com/uc?export=view&id=1xflfCX0bYMLwPy-v3Xu5POlNW_BCOedg)
