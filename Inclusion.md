@@ -11,4 +11,5 @@ Inclusion is one of the six Core Values that the judges evaluate.
 * If one person is not doing a job, and is left out, this means that the other team members must use inclusion and let the left out person have a job. 
 * Inclusion is especially strong if the team also uses teamwork alongside inclusion, and everybody can help tackle a difficult problem.
 
+
 ![A team photo](https://drive.google.com/uc?export=view&id=1v7gVgLoclroMtYP1VTDxHU4QpqM21TDM)
