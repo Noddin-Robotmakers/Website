@@ -31,3 +31,7 @@ Inclusion: We respect each other's ideas for innovation projects and embrace our
 Fun: We enjoy and celebrate what we do! We had a great time together coding, building, and working on the innovation project.
 
 ![Our team at the scrimmage](https://drive.google.com/uc?export=view&id=19FzbHOy3OIH4JUkiMoLXOp3r7Wb1ECbq)
+
+
+
+[![Watch the video](https://img.youtube.com/vi/gz8UgMTxCSI/default.jpg)](https://youtu.be/gz8UgMTxCSI)
