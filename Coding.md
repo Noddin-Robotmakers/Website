@@ -21,6 +21,7 @@ We spent a lot of time cleaning up and documenting our code so our fellow team m
 
 ## Our Code
 
+In mission 1 we push in to the side.
 # Mission #1
 
 ```python
@@ -94,6 +95,7 @@ def solve_mission_13_and_return_to_base():
 solve_mission_13_and_return_to_base()
 ```
 
+In mission 6 we push into the light show and then we do lights and sound.
 # Mission 6
 
 ```python
@@ -174,6 +176,7 @@ solve_mission_6()
 return_to_base()
 ```
 
+In mission 3 we push the flaps up.
 # Mission 3 
 
 ```python
@@ -243,6 +246,7 @@ def solve_mission_4():
 solve_mission_4()
 ```
 
+In mission 11 we spin the wheel on the top.
 # Mission 11
 
 ```python
