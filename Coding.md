@@ -12,7 +12,7 @@ We used Python as our programming language. Here are some reasons why.
 * One reason why we chose Python is because it is very precise. It's useful when having to do something at just the right distance.
 * Another reason is that Python is a standard programming language.
   It is used all around the world, and many engineering jobs and robotics jobs require Python coding.
-* And finally it has reusable functions. It is useful when having to repeat a task multiple times.
+* And finally it has reusable functions. It is useful when having to repeat a task multiple times. For example, reuseable functions are useful when having to hit a lever multiple times, so that you don't have to keep copy pasting code.
 
 ## Documenting
 
