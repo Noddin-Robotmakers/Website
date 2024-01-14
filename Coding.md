@@ -20,6 +20,9 @@ We spent a lot of time cleaning up and documenting our code so our fellow team m
   * We would put a comment describing what 5-6 lines did, and how it completed the mission.
 
 ## Our Code
+
+# Mission #1
+
 ```python
 # IMPORTS
 # =======
