@@ -241,6 +241,7 @@ def solve_mission_4():
 # MAIN PROGRAM
 # ============
 solve_mission_4()
+```
 
 # Mission 11
 
