@@ -36,4 +36,6 @@ Fun: We enjoy and celebrate what we do! We had a great time together coding, bui
 
 [![Watch the video](https://img.youtube.com/vi/gz8UgMTxCSI/default.jpg)](https://youtu.be/gz8UgMTxCSI)
 
-replace ![ image](https://gz8UgMTxCSI.type) with <img src="https://gz8UgMTxCSI.type" width="800" height="800">
+<a href="https://youtu.be/gz8UgMTxCSI">
+    <img src="url_to_thumbnail.jpg" alt="Video Thumbnail" width="300" height="200">
+</a>
