@@ -35,3 +35,5 @@ Fun: We enjoy and celebrate what we do! We had a great time together coding, bui
 
 
 [![Watch the video](https://img.youtube.com/vi/gz8UgMTxCSI/default.jpg)](https://youtu.be/gz8UgMTxCSI)
+
+replace ![ image](https://gz8UgMTxCSI.type) with <img src="https://gz8UgMTxCSI.type" width="800" height="800">
