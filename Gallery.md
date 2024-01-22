@@ -4,4 +4,5 @@
 ![Quiet!](Media/Images/Quiet!.JPG)
 ![Tech!](Media/Images/Tech.JPG)
 ![FOCUS...](Media/Images/FOCUS....JPG)
-![](Media/Images/.JPG)
+![Me!](Media/Images/Me!.JPG)
+[Keepsmiling](Media/Images/Keepsmiling.JPG)
