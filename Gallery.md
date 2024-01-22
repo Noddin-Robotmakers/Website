@@ -3,3 +3,5 @@
 ![We are learning!](Media/Images/We-are-learning!.jpg)
 ![Quiet!](Media/Images/Quiet!.JPG)
 ![Tech!](Media/Images/Tech.JPG)
+![FOCUS...](Media/Images/FOCUS....JPG)
+![](Media/Images/.JPG)
