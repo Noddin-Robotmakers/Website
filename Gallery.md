@@ -5,4 +5,4 @@
 ![Tech!](Media/Images/Tech.JPG)
 ![FOCUS...](Media/Images/FOCUS....JPG)
 ![Me!](Media/Images/Me!.JPG)
-[Keepsmiling](Media/Images/Keepsmiling.JPG)
+![Keepsmiling](Media/Images/Keepsmiling.JPG)
