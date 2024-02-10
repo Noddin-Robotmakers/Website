@@ -1,9 +1,9 @@
-[How We've Had Fun](Fun-Things.md)   
+ 
 [Our Game Strategy](Game-Strategy.md)    
 [How We Got Together](How-We-Got-Together.md)   
 [Coding](Coding.md)   
 [Teamwork -- Core Values](Teamwork.md)   
-[Fun -- Core Values](Fun.md)  
+[How We've Had Fun](Fun.md)
 [Discovery -- Core Values](Discovery.md)   
 [Impact-- Core Values](Impact.md)    
 [Innovation -- Core Values](Innovation.md)
