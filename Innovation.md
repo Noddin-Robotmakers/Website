@@ -11,18 +11,15 @@ We wanted to learn from the best, so we have contacted 6 different disabled spor
 * [Maine Adaptive Sports & Recreation (MASR)](https://maineadaptive.org/)
 * [National Sports Center for the Disabled (NSCD)](https://nscd.org/)
 
-## Innovation's Tale
+Among these organizations, **Maine Adaptive** contacted us and shared with us a lot of experience and insight, which we have learned from to create our prototype solution.
 
-One time during our robot game match, our robot's hub ran out of battery, but luckily we had an hour to make repairs and use innovation.
-We replaced some stuff, checked it worked, and innovation saved our robot match. Using persistence and creativity, we made our robot work again.
+## Learnings from Maine Adaptive
 
-## Inspiration
+### Inspiration, Origin and History
 
-We contacted Maine Adaptive Sports, and got a response from them to. We had 4 tpyes of questions we were intrested in, and one tpye of question we had was "Inspiration". The main answers we got were :
- * Maine Adaptive Sports started in 1982.
- * Maine Adaptive Sports have helped over 400 people.
+Maine Adaptive started in 1982. Some founders were disabled, and wanted to experience sports like able-bodied people. Maine Adaptive has collaborated with innovative designers and toolmakers to created assistive equipment for people who have lost limbs, hearing or vision. To date they have helped over 400 such people.
 
-## Design Process
+### Design Process
    
 
 My team and I had an interview with Adaptive Sports for our innovation project. For our innovation project, we are trying to help
