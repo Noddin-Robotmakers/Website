@@ -31,3 +31,9 @@ Maine Adaptive has developed a very comprehensive process for designing equipmen
 
 Overall we learned a lot about their design process. It was very inspiring to learn how they customized their designs to be as 
 close as possible to the experience without a disability even though the designs sometimes took several years to complete.
+
+## Our Wheelchair-on-Skis Design
+
+Our team has developed a wheelchair that has skis attached to its wheels. This innovation will enable people to move through snowy or icy terrain more easily. However, during the testing phase, we encountered a few issues that needed addressing. For instance, the wheelchair was accelerating too quickly, which could be dangerous. Additionally, it was not maintaining enough momentum. We received feedback from Adaptive Sports and learned from it.
+
+We made several modifications to our design. We added brakes on each side of the wheelchair that can be used to steer and stop. We also discovered that we could use the brakes to push ourselves forward, which enabled us to maintain a more consistent and controlled speed. We're excited about these changes, and we believe that our design will be of great benefit to people with disabilities who wish to ski. We are currently using a 3D printer to print our model and test it.
