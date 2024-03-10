@@ -42,9 +42,18 @@ The _SkiChair_ _2.0_ offers the following benifits:
 * **Fitting and Inclusive**: The _SkiChair_ _2.0_ is made to fit diverse people with special needs.
 * **Easy and Safe**:The _SkiChair_ _2.0_ enables people to move through snowy or icy terrain in an easier way, without slipping.
 
-However, during the testing phase, we encountered a few issues that needed addressing. For instance, the wheelchair was accelerating too fast, which could be dangerous. Additionally, it was not maintaining enough momentum. We received feedback from Adaptive Sports and learned from it.
+### Design modifications
+Through two design itterations we have made several modifications to our design. 
+* We added brakes on each side of the wheelchair that can be used to steer and stop. 
+* We also discovered that we could use the brakes to push ourselves forward, which enabled us to maintain a more consistent and controlled speed.
+We're excited about these changes, and we believe that our design will be of great benefit to people with disabilities who wish to ski. 
+### Prototyping and testing
+However, during the testing phase, we encountered a few issues that needed addressing. 
+* The wheelchair was accelerating too fast, which could be dangerous. 
+* Additionally, it was not maintaining enough momentum.
+* We received feedback from Adaptive Sports and learned from it.
+* We have used a 3D printer to print our model and test it.
 
-We made several modifications to our design. We added brakes on each side of the wheelchair that can be used to steer and stop. We also discovered that we could use the brakes to push ourselves forward, which enabled us to maintain a more consistent and controlled speed. We're excited about these changes, and we believe that our design will be of great benefit to people with disabilities who wish to ski. We are currently using a 3D printer to print our model and test it.
 
 ## Materials / Tech / Production
 
