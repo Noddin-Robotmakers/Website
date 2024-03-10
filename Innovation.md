@@ -46,7 +46,7 @@ These two materials are key for making sure the whole product doesn't break apar
 #### Tech
 * They don't use much in the way of electronics, except for some gear and headwear. 
 * Most stuff is powered by gears, or in some cases, physically. 
-* They said that there has been a major improvement in technology. In one case, the user would blow into a straw, and that would start up the skis/chair, so that the user would not have to do much.
+* They said that there has been a major improvement in technology. In one case, the user would blow into a straw, and that would start up the skis/chair, which acts like a trigger button for people with limited movement.
 
 
 ## Our Innovation: The *SkiChair 2.0*
