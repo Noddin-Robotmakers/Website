@@ -31,7 +31,7 @@ Maine Adaptive has developed a very comprehensive process for designing equipmen
 * **Audio assistance** for people with poor eyesight: for example, a bell can be used as a signal to turn, or a headset can connect visually-disabled skier with a guide who can tell when to turn or when to slow down to avoid obstacles
 * **Special tethers** on the sides of the slopes to prevent disabled/blind skiers from going off course.
 
-Overall we learned a lot about their design process. It was very inspiring to learn how they customize their designs to give the users an experience that is as close as possible to not having a disablility. However, the designs sometimes take several years to complete and perfect.
+Overall we learned a lot about their design process. It was very inspiring to learn how they customize their designs to give the users an experience that is as close as possible to not having a disablility. 
 
 ### Materials / Tech / Production
 
@@ -40,6 +40,7 @@ Overall we learned a lot about their design process. It was very inspiring to le
 * They measure everything, check weight, and make all the measurements needed for the product to fit the customer. 
 * They use aluminum because it's strong and doesn't break easily, and because it's super light.
 * They also use titanium because it's light.
+* However, the designs sometimes take several years to complete and perfect.
 These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
 
 #### Tech
