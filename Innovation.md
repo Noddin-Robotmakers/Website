@@ -34,7 +34,7 @@ close as possible to the experience without a disability even though the designs
 
 ## Our Wheelchair-on-Skis Design
 
-![Our Wheelchair ski designs]([Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpeg](https://github.com/Noddin-RobotMakers/Website/blob/main/Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpg))
+![Our Wheelchair ski designs]([Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpeg](https://github.com/Noddin-RobotMakers/Website/blob/main/Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpg)
 
 Our team has developed a wheelchair that has skis attached to its wheels. This innovation will enable people to move through snowy or icy terrain more easily. However, during the testing phase, we encountered a few issues that needed addressing. For instance, the wheelchair was accelerating too quickly, which could be dangerous. Additionally, it was not maintaining enough momentum. We received feedback from Adaptive Sports and learned from it.
 
