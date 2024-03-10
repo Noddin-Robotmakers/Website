@@ -33,16 +33,16 @@ Maine Adaptive has developed a very comprehensive process for designing equipmen
 
 Overall we learned a lot about their design process. It was very inspiring to learn how they customize their designs to give the users an experience that is as close as possible to not having a disablility. However, the designs sometimes take several years to complete and perfect.
 
-## Materials / Tech / Production
+### Materials / Tech / Production
 
-### Materials/Production
+#### Materials/Production
 * We learned that Main Adaptive makes everything according to the customer. 
 * They measure everything, check weight, and make all the measurements needed for the product to fit the customer. 
 * They use aluminum because it's strong and doesn't break easily, and because it's super light.
 * They also use titanium because it's light.
 These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
 
-### Tech
+#### Tech
 * They don't use much in the way of electronics, except for some gear and headwear. 
 * Most stuff is powered by gears, or in some cases, physically. 
 * They said that there has been a major improvement in technology.
@@ -63,6 +63,7 @@ Through two design itterations we have made several modifications to our design.
 * We added brakes on each side of the wheelchair that can be used to steer and stop. 
 * We also discovered that we could use the brakes to push ourselves forward, which enabled us to maintain a more consistent and controlled speed.
 We're excited about these changes, and we believe that our design will be of great benefit to people with disabilities who wish to ski. 
+
 ### Prototyping and testing
 However, during the testing phase, we encountered a few issues that needed addressing. 
 * The wheelchair was accelerating too fast, which could be dangerous. 
