@@ -33,13 +33,14 @@ Maine Adaptive has developed a very comprehensive process for designing equipmen
 
 Overall we learned a lot about their design process. It was very inspiring to learn how they customize their designs to give the users an experience that is as close as possible to not having a disablility. However, the designs sometimes take several years to complete and perfect.
 
-## Our Innovation: *The SkiChair 2.0*
+## Our Innovation: The *SkiChair 2.0*
 ![Our Wheelchair ski designs](Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpg)
 
-Our team has developed a wheelchair that has skis attached to its wheels. 
-* **Comfortable and Convenent**: The SkiChair 2.0 helps people with disabilities have a comfortable skiing experience.
-* **Fitting and Inclusive**: The SkiChair 2.0 is made to fit diverse people with special needs.
-* **Easy and Safe**:The SkiChair 2.0 will enable people to move through snowy or icy terrain in an easier way.
+Our team is developing a wheelchair that has skis attached to its wheels, and we call it the _SkiChair_ _2.0_. It's 2.0 because we are in our 2nd design generation.
+The _SkiChair_ _2.0_ offers the following benifits:
+* **Comfortable and Convenient**: The _SkiChair_ _2.0_ helps people with disabilities have a comfortable skiing experience, and is convenient to get into and out of.
+* **Fitting and Inclusive**: The _SkiChair_ _2.0_ is made to fit diverse people with special needs.
+* **Easy and Safe**:The _SkiChair_ _2.0_ enables people to move through snowy or icy terrain in an easier way, without slipping.
 
 However, during the testing phase, we encountered a few issues that needed addressing. For instance, the wheelchair was accelerating too fast, which could be dangerous. Additionally, it was not maintaining enough momentum. We received feedback from Adaptive Sports and learned from it.
 
