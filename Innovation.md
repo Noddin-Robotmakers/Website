@@ -11,13 +11,13 @@ We wanted to learn from the best, so we have contacted 6 different disabled spor
 * [Maine Adaptive Sports & Recreation (MASR)](https://maineadaptive.org/)
 * [National Sports Center for the Disabled (NSCD)](https://nscd.org/)
 
-Among these organizations, **Maine Adaptive** contacted us and shared with us a lot of experience and insight, which we have learned from to create our prototype solution.
+Among these organizations, **Maine Adaptive** contacted us and shared a lot of experience and insight with us, which we have learned from to create our prototype solution.
 
 ## Learnings from Maine Adaptive
 
 ### Inspiration, Origin and History
 
-Maine Adaptive started in 1982. Some founders were disabled, and wanted to experience sports like able-bodied people. Maine Adaptive has collaborated with innovative designers and toolmakers to create assistive equipment for people who have lost limbs, hearing or vision. To date they have helped over 400 such people.
+Maine Adaptive started in 1982. Some founders were disabled, and wanted to experience sports like able-bodied people. Maine Adaptive has collaborated with innovative designers and toolmakers to create assistive equipment for people who have lost limbs, hearing or vision. To this date they have helped over 400 such people.
 
 ### Design Process
 
