@@ -53,7 +53,7 @@ These two materials are key for making sure the whole product doesn't break apar
 ![Our Wheelchair ski designs](Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpg)
 
 Our team is developing a wheelchair that has skis attached to its wheels, and we call it the _SkiChair_ _2.0_. It's 2.0 because we are in our 2nd design generation.
-The _SkiChair_ _2.0_ offers the following benifits:
+The _SkiChair_ _2.0_ offers the following benefits:
 * **Comfortable and Convenient**: The _SkiChair_ _2.0_ helps people with disabilities have a comfortable skiing experience, and is convenient to get into and out of.
 * **Fitting and Inclusive**: The _SkiChair_ _2.0_ is made to fit diverse people with special needs.
 * **Easy and Safe**:The _SkiChair_ _2.0_ enables people to move through snowy or icy terrain in an easier way, without slipping.
