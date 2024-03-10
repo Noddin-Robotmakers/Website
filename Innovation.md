@@ -2,7 +2,7 @@ Innovation is one of the six Core Values of FLL, and we have got an awesome oppo
 
 ## Outreach to Disabled Sports Innovators
 
-We wanted to learn from the best, so we have contacted 6 different disabled sports organizations across the US, which are:
+We wanted to learn from the best, so we have reached out and e-mailed 6 different disabled sports organizations across the US, which are:
 
 * [Adaptive Sports Center, Colorado](https://www.adaptivesports.org/) 
 * [Adaptive Sports Connection, Ohio](https://adaptivesportsconnection.org/)
@@ -11,7 +11,7 @@ We wanted to learn from the best, so we have contacted 6 different disabled spor
 * [Maine Adaptive Sports & Recreation (MASR)](https://maineadaptive.org/)
 * [National Sports Center for the Disabled (NSCD)](https://nscd.org/)
 
-Among these organizations, **Maine Adaptive** contacted us and shared a lot of experience and insight with us, which we have learned from to create our prototype solution.
+Among these organizations, **Maine Adaptive** contacted us and shared a lot of experience and insight with us. We have learned from them to create our prototype solution.
 
 ## Learnings from Maine Adaptive
 
