@@ -17,7 +17,7 @@ Among these organizations, **Maine Adaptive** contacted us and shared a lot of e
 
 ### Inspiration, Origin and History
 
-Maine Adaptive started in 1982. Some founders were disabled, and wanted to experience sports like able-bodied people. Maine Adaptive has collaborated with innovative designers and toolmakers to create assistive equipment for people who have lost limbs, hearing or vision. To this date they have helped over 400 such people.
+![Maine Adaptive](https://maineadaptive.org/) started in 1982. Some founders were disabled, and wanted to experience sports like able-bodied people. Maine Adaptive has collaborated with innovative designers and toolmakers to create assistive equipment for people who have lost limbs, hearing or vision. To this date they have helped over 400 such people.
 
 ![Maine Adaptive examples](Media/Images/Innovation-Project-Interview/Main-Adaptive-Example-Designs.png)
 
