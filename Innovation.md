@@ -26,7 +26,7 @@ Among these organizations, **Maine Adaptive** contacted us and shared a lot of e
 Maine Adaptive has developed a very comprehensive process for designing equipment to help disabled people. They have come up with personalized approaches for different disabilities, for example:
 
 * **Bi-skis** for people with weak upper bodies
-* **Four-tracker skis** for peole with balancing difficulties 
+* **Four-tracker skis** for people with balancing difficulties 
 * **Sit-down skis** for people who can't stand (people that have lost legs or are lower-body paralyzed)
 * **Audio assistance** for people with poor eyesight: for example, a bell can be used as a signal to turn, or a headset can connect visually-disabled skier with a guide who can tell when to turn or when to slow down to avoid obstacles
 * **Special tethers** on the sides of the slopes to prevent disabled/blind skiers from going off course.
