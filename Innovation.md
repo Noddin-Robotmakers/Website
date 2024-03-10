@@ -25,14 +25,13 @@ Maine Adaptive started in 1982. Some founders were disabled, and wanted to exper
 
 Maine Adaptive has developed a very comprehensive process for designing equipment to help disabled people. They have come up with personalized approaches for different disabilities, for example:
 
-* Bi-skis for people with weak upper bodies
-* Four-tracker skis for peole with balancing difficulties 
-* Sit-down skis for people who can't stand (people that have lost legs or are lower-body paralyzed)
-* Audio assistance for people with poor eyesight: for example, a bell can be used as a signal to turn, or a headset can connect visually-disabled skier with a guide who can tell when to turn or when to slow down to avoid obstacles
-* Special tethers on the sides of the slopes to prevent disabled/blind skiers from going off course.
+* **Bi-skis** for people with weak upper bodies
+* **Four-tracker skis** for peole with balancing difficulties 
+* **Sit-down skis** for people who can't stand (people that have lost legs or are lower-body paralyzed)
+* **Audio assistance** for people with poor eyesight: for example, a bell can be used as a signal to turn, or a headset can connect visually-disabled skier with a guide who can tell when to turn or when to slow down to avoid obstacles
+* **Special tethers** on the sides of the slopes to prevent disabled/blind skiers from going off course.
 
-Overall we learned a lot about their design process. It was very inspiring to learn how they customized their designs to be as 
-close as possible to the experience without a disability even though the designs sometimes took several years to complete.
+Overall we learned a lot about their design process. It was very inspiring to learn how they customize their designs to give the users an experience that is as close as possible to not having a disablility. However, the designs sometimes take several years to complete and perfect.
 
 ## Our Wheelchair-on-Skis Design
 
