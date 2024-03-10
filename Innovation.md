@@ -36,7 +36,12 @@ Overall we learned a lot about their design process. It was very inspiring to le
 ## Our Innovation: *The SkiChair 2.0*
 ![Our Wheelchair ski designs](Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpg)
 
-Our team has developed a wheelchair that has skis attached to its wheels. This innovation will enable people to move through snowy or icy terrain more easily. However, during the testing phase, we encountered a few issues that needed addressing. For instance, the wheelchair was accelerating too fast, which could be dangerous. Additionally, it was not maintaining enough momentum. We received feedback from Adaptive Sports and learned from it.
+Our team has developed a wheelchair that has skis attached to its wheels. 
+* **Comfortable and Convenent**: The SkiChair 2.0 helps people with disabilities have a comfortable skiing experience.
+* **Fitting and Inclusive**: The SkiChair 2.0 is made to fit diverse people with special needs.
+* **Easy and Safe**:The SkiChair 2.0 will enable people to move through snowy or icy terrain in an easier way.
+
+However, during the testing phase, we encountered a few issues that needed addressing. For instance, the wheelchair was accelerating too fast, which could be dangerous. Additionally, it was not maintaining enough momentum. We received feedback from Adaptive Sports and learned from it.
 
 We made several modifications to our design. We added brakes on each side of the wheelchair that can be used to steer and stop. We also discovered that we could use the brakes to push ourselves forward, which enabled us to maintain a more consistent and controlled speed. We're excited about these changes, and we believe that our design will be of great benefit to people with disabilities who wish to ski. We are currently using a 3D printer to print our model and test it.
 
