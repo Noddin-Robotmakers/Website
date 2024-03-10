@@ -33,6 +33,22 @@ Maine Adaptive has developed a very comprehensive process for designing equipmen
 
 Overall we learned a lot about their design process. It was very inspiring to learn how they customize their designs to give the users an experience that is as close as possible to not having a disablility. However, the designs sometimes take several years to complete and perfect.
 
+## Materials / Tech / Production
+
+### Materials/Production
+* We learned that Main Adaptive makes everything according to the customer. 
+* They measure everything, check weight, and make all the measurements needed for the product to fit the customer. 
+* They use aluminum because it's strong and doesn't break easily, and because it's super light.
+* They also use titanium because it's light.
+These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
+
+### Tech
+* They don't use much in the way of electronics, except for some gear and headwear. 
+* Most stuff is powered by gears, or in some cases, physically. 
+* They said that there has been a major improvement in technology.
+* In one case, the user would blow into a straw, and that would start up the skis/chair, so that the user would not have to do much.
+
+
 ## Our Innovation: The *SkiChair 2.0*
 ![Our Wheelchair ski designs](Media/Images/Innovation-Project-Interview/Wheelchair-Ski-Design-Presentation.jpg)
 
@@ -55,15 +71,3 @@ However, during the testing phase, we encountered a few issues that needed addre
 * We have used a 3D printer to print our model and test it.
 
 
-## Materials / Tech / Production
-
-* We learned that Main Adaptive makes everything according to the customer. 
-* They measure everything, check weight, and make all the measurements needed for the product to fit the customer. 
-* They use aluminum because it's strong and doesn't break easily, and because it's super light.
-* They also use titanium because it's light.
-These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
-
-* They don't use much in the way of electronics, except for some gear and headwear. 
-* Most stuff is powered by gears, or in some cases, physically. 
-* They said that there has been a major improvement in technology.
-* In one case, the user would blow into a straw, and that would start up the skis/chair, so that the user would not have to do much.
