@@ -57,6 +57,13 @@ However, during the testing phase, we encountered a few issues that needed addre
 
 ## Materials / Tech / Production
 
-We learned that Main Adaptive makes everything according to the customer. They measure everything, check weight, and make all the measurements needed for the product to fit the customer. They use aluminum because it's strong and doesn't break easily, and because it's super light. They also use titanium because it's light. These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
+* We learned that Main Adaptive makes everything according to the customer. 
+* They measure everything, check weight, and make all the measurements needed for the product to fit the customer. 
+* They use aluminum because it's strong and doesn't break easily, and because it's super light.
+* They also use titanium because it's light.
+These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
 
-They don't use much in the way of electronics, except for some gear and headwear. Most stuff is powered by gears, or in some cases, physically.  They said that there has been a major improvement in technology. In one case, the user would blow into a straw, and that would start up the skis/chair, so that the user would not have to do much.
+* They don't use much in the way of electronics, except for some gear and headwear. 
+* Most stuff is powered by gears, or in some cases, physically. 
+* They said that there has been a major improvement in technology.
+* In one case, the user would blow into a straw, and that would start up the skis/chair, so that the user would not have to do much.
