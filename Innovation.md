@@ -37,3 +37,9 @@ close as possible to the experience without a disability even though the designs
 Our team has developed a wheelchair that has skis attached to its wheels. This innovation will enable people to move through snowy or icy terrain more easily. However, during the testing phase, we encountered a few issues that needed addressing. For instance, the wheelchair was accelerating too quickly, which could be dangerous. Additionally, it was not maintaining enough momentum. We received feedback from Adaptive Sports and learned from it.
 
 We made several modifications to our design. We added brakes on each side of the wheelchair that can be used to steer and stop. We also discovered that we could use the brakes to push ourselves forward, which enabled us to maintain a more consistent and controlled speed. We're excited about these changes, and we believe that our design will be of great benefit to people with disabilities who wish to ski. We are currently using a 3D printer to print our model and test it.
+
+## Materials / Tech / Production
+
+We learned that Main Adaptive makes everything according to the customer. They measure everything, check weight, and make all the measurements needed for the product to fit the customer. They use aluminum because it's strong and doesn't break easily, and because it's super light. They also use titanium because it's light. These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
+
+They don't use much in the way of electronics, except for some gear and headwear. Most stuff is powered by gears, or in some cases, physically.  They said that there has been a major improvement in technology. In one case, the user wouldblow into a straw, and that would start up the skis/chair, so that the user would not have to do much.
