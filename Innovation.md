@@ -37,7 +37,7 @@ Overall we learned a lot about their design process. It was very inspiring to le
 
 #### Materials/Production
 * We learned that Main Adaptive makes everything according to the customer. 
-* They measure everything, check weight, and make all the measurements needed for the product to fit the customer. 
+* Main Adaptive has everything measured, weight checked, and makes sure all the measurements needed for the product to fit the customer. 
 * They use aluminum because it's strong and doesn't break easily, and because it's super light.
 * They also use titanium because it's light.
 * However, the designs sometimes take several years to complete and perfect.
