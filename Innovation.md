@@ -38,15 +38,14 @@ Overall we learned a lot about their design process. It was very inspiring to le
 #### Materials/Production
 * We learned that Main Adaptive makes everything according to the customer. 
 * Main Adaptive has everything measured, weight checked, and makes sure all the measurements needed for the product to fit the customer. 
-* Main Adaptive's products use aluminum because it's strong and doesn't break easily, and because it's super light.
-* Titanium is also used a lot because it's light.
+* Main Adaptive's products use aluminum  and titanium because they are strong and do not break easily. Another advantage is that they are super light.
 * However, the designs sometimes take several years to complete and perfect.
 These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
 
 #### Tech
-* They don't use much in the way of electronics, except for some gear and headwear. 
-* Most stuff is powered by gears, or in some cases, physically. 
-* They said that there has been a major improvement in technology. In one case, the user would blow into a straw, and that would start up the skis/chair, where the blowing acts like a trigger button for people with limited movement.
+* Main Adaptive doesn't use much in the way of electronics, except for some gear and headwear. 
+* Most eqiupment is powered manually with the help of gears and levers. 
+* Main Adaptive told us that there has been a major improvement in technology. In one case, the user would blow into a straw, and that would start up the skis/chair, where the blowing acts like a trigger button for people with limited movement.
 
 
 ## Our Innovation: The *SkiChair 2.0*
