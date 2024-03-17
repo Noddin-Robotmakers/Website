@@ -11,13 +11,13 @@ We wanted to learn from the best, so we have reached out and e-mailed 6 differen
 * [Maine Adaptive Sports & Recreation (MASR)](https://maineadaptive.org/)
 * [National Sports Center for the Disabled (NSCD)](https://nscd.org/)
 
-Among these organizations, **Maine Adaptive** contacted us and shared a lot of experience and insight with us. We have learned from them to create our prototype solution.
+Among these organizations, **Maine Adaptive** reached out to us and shared a lot of experience and insight with us. We have learned from them to create our prototype solution.
 
 ## Learnings from Maine Adaptive
 
 ### Inspiration, Origin and History
 
-![Maine Adaptive](https://maineadaptive.org/) started in 1982. Some founders were disabled, and wanted to experience sports like able-bodied people. Maine Adaptive has collaborated with innovative designers and toolmakers to create assistive equipment for people who have lost limbs, hearing or vision. To this date they have helped over 400 such people.
+[Maine Adaptive](https://maineadaptive.org/) started in 1982. Some founders were disabled, and wanted to experience sports like able-bodied people. Maine Adaptive has collaborated with innovative designers and toolmakers to create assistive equipment for people who have lost limbs, hearing or vision. To this date they have helped over 400 such people.
 
 ![Maine Adaptive examples](Media/Images/Innovation-Project-Interview/Main-Adaptive-Example-Designs.png)
 
@@ -38,8 +38,8 @@ Overall we learned a lot about their design process. It was very inspiring to le
 #### Materials/Production
 * We learned that Main Adaptive makes everything according to the customer. 
 * Main Adaptive has everything measured, weight checked, and makes sure all the measurements needed for the product to fit the customer. 
-* They use aluminum because it's strong and doesn't break easily, and because it's super light.
-* They also use titanium because it's light.
+* Main Adaptive's products use aluminum because it's strong and doesn't break easily, and because it's super light.
+* Titanium is also used a lot because it's light.
 * However, the designs sometimes take several years to complete and perfect.
 These two materials are key for making sure the whole product doesn't break apart, and they are very useful at attachment points.
 
