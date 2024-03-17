@@ -11,7 +11,7 @@ We wanted to learn from the best, so we have reached out and e-mailed 6 differen
 * [Maine Adaptive Sports & Recreation (MASR)](https://maineadaptive.org/)
 * [National Sports Center for the Disabled (NSCD)](https://nscd.org/)
 
-Among these organizations, **Maine Adaptive** reached out to us and shared a lot of experience and insight with us. We have learned from them to create our prototype solution.
+Among these organizations, **Maine Adaptive** reached out to us and shared a lot of experience and insight with us. We had an interview with them, and talked about their design process, their products, and our prototype. We have used their advice to improve our prototype solution. 
 
 ## Learnings from Maine Adaptive
 
@@ -23,7 +23,7 @@ Among these organizations, **Maine Adaptive** reached out to us and shared a lot
 
 ### Design Process
 
-Maine Adaptive has developed a very comprehensive process for designing equipment to help disabled people. They have come up with personalized approaches for different disabilities, for example:
+Maine Adaptive has developed a very comprehensive process for designing equipment to help disabled people. They told us that they have come up with personalized approaches for different disabilities, for example:
 
 * **Bi-skis** for people with weak upper bodies
 * **Four-tracker skis** for people with balancing difficulties 
@@ -68,6 +68,6 @@ We're excited about these changes, and we believe that our design will be of gre
 However, during the testing phase, we encountered a few issues that needed addressing. We received feedback from Maine Adaptive and learned from it.
 * The wheelchair was accelerating too fast, which could be dangerous. 
 * Additionally, it was not maintaining enough momentum.
-* We have used a 3D printer to print our model and test it.
+We have used a 3D printer to print our model and test it.
 
 
