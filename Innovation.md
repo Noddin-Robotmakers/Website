@@ -64,9 +64,8 @@ Through two design itterations we have made several modifications to our design.
 We're excited about these changes, and we believe that our design will be of great benefit to people with disabilities who wish to ski. 
 
 ### Prototyping and testing
-However, during the testing phase, we encountered a few issues that needed addressing. We received feedback from Maine Adaptive and learned from it.
-* The wheelchair was accelerating too fast, which could be dangerous. 
-* Additionally, it was not maintaining enough momentum.
+However, during the testing phase, we encountered a few issues that needed addressing. We received feedback from Maine Adaptive telling us about what we were doing wrong.
+* Main Adaptive told us that the wheelchair was going to accelerate too fast, and that it would not maintain momentum.
 We have used a 3D printer to print our model and test it.
 
 
