@@ -8,9 +8,11 @@
 
 Anika's favorite colors are black and white. She loves painting, dancing, volleyball and hanging out with her brother.
 
-### Antoni Lương-Phạm
+### Antoni Luong-Pham
 
-### Ariana Lương-Phạm
+Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.  
+
+### Ariana Luong-Pham
 
 Ariana's favorite color is saffire blue. She loves playing with Chemistry, especially making slime of all kinds: butter slime, clear slime, fluffy slime, cloud slime, water slime, toothpaste slime, ziplock slime, icee slime and water bottle slime!!
 
