@@ -1,12 +1,14 @@
-Our strategy for the game was to choose some missions that were easy and quick. Then we made attachments for those missions. 
-After that, we moved on to making attachments for harder missions and testing them. 
+# Robot Game Strategy
+
+Our strategy for the game was to choose some missions that were easy and quick. Then we made attachments for those missions.
+After that, we moved on to making attachments for harder missions and testing them.
 We learned about different types of attachments, and what attachments are best for which task.
 
 ## Attachments
 
-### Types of attachments 
+### Types of attachments
 
-We made two types of attachments, passive and active. 
+We made two types of attachments, passive and active.
 
 * Passive attachments don't need motors or electronics. They are very useful because the robot only has two motors for attachments. They are a lot simpler and easier to work with than active attachments.
 
@@ -22,9 +24,6 @@ We made two types of attachments, passive and active.
 
 * When we made the plan for the attachments, we carefully considered how to use attachments for more than one purpose.
  This way, we could save time because we didn't have to put on extra attachments, test them, or carry them around.
-
-
-
 
 ## Mission strategies
 
@@ -52,5 +51,3 @@ We made two types of attachments, passive and active.
 ## Testing
 
 * We did a lot of testing and changed how a lot of the attachments worked. Code was also faulty most of the time. We had a hard time but it was worth it.
-
-

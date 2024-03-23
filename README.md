@@ -1,22 +1,11 @@
-[Our Game Strategy](Game-Strategy.md)
+<!-- markdownlint-disable MD033 -->
 
-[How We Got Together](How-We-Got-Together.md)
-
-[Coding](Coding.md)
-
-[Teamwork -- Core Values](Teamwork.md)
-
-[How We've Had Fun](Fun.md)
-
-[Discovery -- Core Values](Discovery.md)
-
-[Impact-- Core Values](Impact.md)
-
-[Innovation -- Core Values](Innovation.md)
+# Hello from Noddin RobotMakers
 
 ## Introduction
 
-Hi there! We are a team of five students from Noddin Elementary School participating in a robotics competition called FLL (First Lego League). Our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. For those who are not familiar with FLL, it is a robotics competition and we code the robots we build to do certain tasks. We use Pybricks Beta, a Python coding software. We keep the code for the robot to perform various missions in this repository. 
+Hi there! We are a team of five students from Noddin Elementary School participating in a robotics competition called FLL (First Lego League). Our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. For those who are not familiar with FLL, it is a robotics competition and we code the robots we build to do certain tasks. We use Pybricks Beta, a Python coding software. We keep the code for the robot to perform various missions in this repository.
+
 ## Innovation
 
 Our innovation project is worth 25 percent of our overall score. This project aims to assist blind or disabled people in skiing. We have developed ski goggles equipped with sensors that provide directions like "Go left" or "Go right". The goggles also alert the user of any potential danger, including cliffs or steep drops. We have created slides explaining how we conducted the project, which you can find via this link. Our process began with researching organizations and then reaching out to the top five websites via email. Finally, we constructed prototypes to aid people with disabilities. Our innovation will help improve and help the world.
@@ -39,10 +28,8 @@ Fun: We enjoy and celebrate what we do! We had a great time together coding, bui
 
 ![Our team at the scrimmage](https://drive.google.com/uc?export=view&id=19FzbHOy3OIH4JUkiMoLXOp3r7Wb1ECbq)
 
-
-
 [![Watch the video](https://img.youtube.com/vi/gz8UgMTxCSI/default.jpg)](https://youtu.be/gz8UgMTxCSI)
 
 <a href="https://youtu.be/gz8UgMTxCSI">
-    <img src="url_to_thumbnail.jpg" alt="Video Thumbnail" width="300" height="200">
+  <img src="url_to_thumbnail.jpg" alt="Video Thumbnail" width="300" height="200">
 </a>

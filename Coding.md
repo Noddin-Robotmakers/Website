@@ -1,8 +1,10 @@
+# Coding
+
 For the robot to function we had to use code.
 
 ## Our Coding App
 
-* We decided to use Pybricks Beta as our coding app. 
+* We decided to use Pybricks Beta as our coding app.
 * It uses the programming language Python and even comes with its documentary.
 
 ## Our Coding Language
@@ -17,12 +19,14 @@ We used Python as our programming language. Here are some reasons why.
 ## Documenting
 
 We spent a lot of time cleaning up and documenting our code so our fellow team members would know how the code worked.
-  * We would put a comment describing what 5-6 lines did, and how it completed the mission.
+
+* We would put a comment describing what 5-6 lines did, and how it completed the mission.
 
 ## Our Code
 
 In Mission 1 we push in to the side.
-# Mission #1
+
+### Mission #1
 
 ```python
 # IMPORTS
@@ -96,7 +100,8 @@ solve_mission_13_and_return_to_base()
 ```
 
 In Mission 6 we push into the light show and then we do lights and sound.
-# Mission 6
+
+### Mission 6
 
 ```python
 
@@ -177,7 +182,8 @@ return_to_base()
 ```
 
 In Mission 3 we push the flaps up.
-# Mission 3 
+
+### Mission 3
 
 ```python
 
@@ -247,7 +253,8 @@ solve_mission_4()
 ```
 
 In Mission 11 we spin the wheel on the top.
-# Mission 11
+
+### Mission 11
 
 ```python
 
@@ -320,4 +327,3 @@ def solve_mission_13_and_return_to_base():
 # ============
 solve_mission_13_and_return_to_base()
 ```
-

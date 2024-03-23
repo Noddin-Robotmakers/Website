@@ -1,6 +1,4 @@
-Discovery is one of the six Core Values that a team gets evaluated on.
-
-## Discovery 
+# Discovery
 
 Discovery means that we explore new ideas. If a team doesn't discover and explore new ideas, they might end up with one attachment for the whole game. That will limit their options, and on top of that, their chance of winning the game. Without discovery lots of inventions would not be around today. Inventors need to discover new ideas.
 
