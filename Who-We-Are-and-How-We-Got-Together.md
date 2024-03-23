@@ -12,7 +12,12 @@ Anika's favorite colors are black and white. She loves painting, dancing, volley
 
 ### Antoni Luong-Pham
 
-Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;"><img src="Media/Images/Individual-Profiles/Antoni/1.jpg" alt="Antoni" /></td>
+    <td style="border: none;">Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.</td>
+  </tr>
+</table>
 
 ### Ariana Luong-Pham
 
