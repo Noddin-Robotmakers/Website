@@ -1,11 +1,11 @@
 nav:
   - text: Home
-    url: /README.html
+    url: README.html
   - text: Game Strategy
-    url: /Game-Strategy.html
+    url: Game-Strategy.html
   - text: How We Got-Together
-    url: /How-We-Got-Together.html
+    url: Who-We-Are-and-How-We-Got-Together.html
   - text: Fun
-    url: /Fun.html
+    url: Fun.html
   - text: Teamwork
-    url: /Teamwork.html
+    url: Teamwork.html
