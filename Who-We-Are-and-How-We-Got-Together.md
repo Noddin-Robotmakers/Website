@@ -10,23 +10,29 @@
 
 Anika's favorite colors are black and white. She loves painting, dancing, volleyball and hanging out with her brother.
 
-### Antoni Luong-Pham
+<div style="display: flex; flex-direction: column;">
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;"><img src="Media/Images/Individual-Profiles/Antoni/1.jpg" alt="Antoni" /></td>
-    <td style="border: none;">Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.</td>
-  </tr>
-</table>
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Individual-Profiles/Antoni/1.jpg" alt="Antoni" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <h3>Antoni Luong-Pham</h3>
+      Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.
+    </div>
+  </div>
 
-### Ariana Luong-Pham
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Individual-Profiles/Ariana/1.jpg" alt="Ariana" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <h3>Ariana Luong-Pham</h3>
+      Ariana's favorite color is saffire blue. She loves playing with Chemistry, especially making slime of all kinds: butter slime, clear slime, fluffy slime, cloud slime, water slime, toothpaste slime, ziplock slime, icee slime and water-bottle slime!!
+    </div>
+  </div>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;"><img src="Media/Images/Individual-Profiles/Ariana/1.jpg" alt="Ariana" /></td>
-    <td style="border: none;">Ariana's favorite color is saffire blue. She loves playing with Chemistry, especially making slime of all kinds: butter slime, clear slime, fluffy slime, cloud slime, water slime, toothpaste slime, ziplock slime, icee slime and water-bottle slime!!</td>
-  </tr>
-</table>
+</div>
 
 ### Ryan Lee
 
