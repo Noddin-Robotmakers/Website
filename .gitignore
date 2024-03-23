@@ -1,2 +1,9 @@
+# Ruby / Jekyll
+*.gem
+Gemfile.lock
+.jekyll-cache/
+.sass-cache/
+_site/
+
 # Visual Studio Code
 *.code-workspace
