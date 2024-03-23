@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # Who We Are and How We Got Together
 
 ## Fun Facts about Each of Us
@@ -10,11 +12,16 @@ Anika's favorite colors are black and white. She loves painting, dancing, volley
 
 ### Antoni Luong-Pham
 
-Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.  
+Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.
 
 ### Ariana Luong-Pham
 
-Ariana's favorite color is saffire blue. She loves playing with Chemistry, especially making slime of all kinds: butter slime, clear slime, fluffy slime, cloud slime, water slime, toothpaste slime, ziplock slime, icee slime and water bottle slime!!
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;"><img src="Media/Images/Individual-Profiles/Ariana/1.jpg" alt="Ariana" /></td>
+    <td style="border: none;">Ariana's favorite color is saffire blue. She loves playing with Chemistry, especially making slime of all kinds: butter slime, clear slime, fluffy slime, cloud slime, water slime, toothpaste slime, ziplock slime, icee slime and water-bottle slime!!</td>
+  </tr>
+</table>
 
 ### Ryan Lee
 
