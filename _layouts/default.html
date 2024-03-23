@@ -29,18 +29,17 @@
         {% endif %}
       </div>
 
-      {% include navigation.html %}
-
     </header>
 
     <div id="content-wrapper">
       <div class="inner clearfix">
+        <aside id="sidebar">     
+          {% include navigation.html %}
+        </aside>
+
         <section id="main-content">
           {{ content }}
         </section>
-
-        <aside id="sidebar">
-        </aside>
       </div>
     </div>
 
