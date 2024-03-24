@@ -20,7 +20,7 @@
 
   <body>
 
-    <header>
+    <header style="position: fixed;">
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -34,7 +34,7 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
-        <aside id="sidebar">
+        <aside id="sidebar" style="position: fixed;">
           {% include navigation.html %}
         </aside>
 
