@@ -4,15 +4,27 @@
 
 ## Fun Facts about Each of Us
 
-### Aidan Callebaut
-
-Aidan favors the colors blue and green. He enjoys robotics, video games, and sports. He has been playing the piano since 5 yrs old. He loves math, reading, and running. His favorite food is sushi.
-
-### Anika Gupta
-
-Anika's favorite colors are black and white. She loves painting, dancing, volleyball and hanging out with her brother.
-
 <div style="display: flex; flex-direction: column;">
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Individual-Profiles/Aidan/1.jpg" alt="Aidan" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <h3>Aidan Callebaut</h3>
+      Aidan favors the colors blue and green. He enjoys robotics, video games, and sports. He has been playing the piano since 5 yrs old. He loves math, reading, and running. His favorite food is sushi.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Individual-Profiles/Anika/1.jpg" alt="Anika" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <h3>Anika Gupta</h3>
+      Anika's favorite colors are black and white. She loves painting, dancing, volleyball and hanging out with her brother.
+    </div>
+  </div>
 
   <div style="display: flex; align-items: stretch;">
     <div style="flex: 1; display: flex;">
@@ -34,9 +46,17 @@ Anika's favorite colors are black and white. She loves painting, dancing, volley
     </div>
   </div>
 
-</div>
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Individual-Profiles/Ryan/1.jpg" alt="Ryan" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      <h3>Ryan Lee</h3>
+      ...
+    </div>
+  </div>
 
-### Ryan Lee
+</div>
 
 ## Good Friends at Noddin
 
