@@ -12,3 +12,7 @@ nav ul {
   list-style-type: none;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
 }
+nav ul li:before {
+  content: "→ ";
+  font-size: smaller;
+}
