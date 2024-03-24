@@ -12,7 +12,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Aidan Callebaut</h3>
-      Aidan favors the colors blue and green. He enjoys robotics, video games, and sports. He has been playing the piano since 5 yrs old. He loves math, reading, and running. His favorite food is sushi.
+      Aidan favors the colors blue and green. He enjoys robotics, video games, baking, cooking, and sports. He has been playing the piano since 5 years old. He loves math, reading, and running. His favorite food is sushi.
     </div>
   </div>
 
