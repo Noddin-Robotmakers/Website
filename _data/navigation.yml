@@ -1,10 +1,16 @@
 - text: Home
   url: index.html
-- text: Game Strategy
-  url: Game-Strategy.html
-- text: How We Got-Together
+- text: Who We Are and How We Got Together
   url: Who-We-Are-and-How-We-Got-Together.html
-- text: Fun
-  url: Fun.html
-- text: Teamwork
-  url: Teamwork.html
+- text: Core Values
+  url: Core-Values.html
+- text: Robot Design & Game Strategy
+  url: Robot-Design-and-Game-Strategy.html
+- text: Python Programming
+  url: Python-Programming.html
+- text: Innovation Project
+  url: Innovation-Project.html
+- text: Tools We Have Learned
+  url: Tools-We-Have-Learned.html
+- text: Gallery
+  url: Gallery.html
