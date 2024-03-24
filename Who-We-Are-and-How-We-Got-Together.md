@@ -6,6 +6,8 @@
 
 ### Aidan Callebaut
 
+Aidan favors the colors blue and green. He enjoys robotics, video games, and sports. Last year (2023), he met Antoni, and then they became friends and started doing this robotics competition.
+
 ### Anika Gupta
 
 Anika's favorite colors are black and white. She loves painting, dancing, volleyball and hanging out with her brother.
