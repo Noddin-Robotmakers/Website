@@ -6,7 +6,7 @@
 
 ### Aidan Callebaut
 
-Aidan favors the colors blue and green. He enjoys robotics, video games, and sports. Last year (2023), he met Antoni, and then they became friends and started doing this robotics competition.
+Aidan favors the colors blue and green. He enjoys robotics, video games, and sports. He has been playing the piano since 5 yrs old. He loves math, reading, and running. His favorite food is sushi.
 
 ### Anika Gupta
 
