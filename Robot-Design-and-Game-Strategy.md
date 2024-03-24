@@ -33,7 +33,7 @@ We made two types of attachments, passive and active.
 ## Missions we completed
 
 * We also did the 3D Cinema(20 pts)
-* Theater Scene Change (which is 50 points with the pink - pink matching bonus)
+* Theater Scene Change (which is 50 points with the pink-pink matching bonus)
 * Immersive Experience (20 pts)
 * Masterpiece (10 pts with the 20 pts bonus)
 * Augmented Reality Statue (30 pts)
@@ -44,10 +44,10 @@ We made two types of attachments, passive and active.
 * Sound Mixer (2 sliders, 10 pts for each slider)
 * Virtual Reality Artist (10 pts, with the 20 pts bonus)
 * Craft Creator (10 pts for the lid, and 20 pts for the machine)
-* Expert Delivery(10 pts)
-* Audience Delivery (40 pts)
-* We usually have 50 pts in precision tokens remaining. We can complete 12 missions, and our maximum number of points is 430 pts.
+* Expert Delivery(20 pts)
+* Audience Delivery (55 pts)
+* We usually have 50 pts in precision tokens remaining. We can complete 12 missions, and our maximum number of points is 445 pts.
 
 ## Testing
 
-* We did a lot of testing and changed how a lot of the attachments worked. Code was also faulty most of the time. We had a hard time but it was worth it.
+* We did a lot of testing and changed how a lot of the attachments worked. The code was also faulty most of the time. We had a hard time but it was worth it.
