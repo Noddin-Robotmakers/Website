@@ -28,44 +28,18 @@ The pizza also helped us regain some energy after long hours of work and testing
 ### High Robot game scores
 
 High scores in our robot game were pure practice.
-It was fun when we had to change the code and then we got a better score.
-Our tests were fun even if we failed. We kept trying till we got it right.
+It was fun when we had to change the code and then## Core Values
 
-### Mission Mix-Up
+Remember these six Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun. As a team, it is essential to demonstrate these values during the competition. Here's what each Core Value means:
 
-What might have been the most fun thing might have been a mission mix-up.
-An axle on the robot kept on getting stuck in a hole in the mission. It seemed to be a one-in-a-million chance. But it happened over and over again.
-Finally, we put a stub nose on the end of the axle to prevent the mix-up from happening.
+Teamwork: We are stronger when we work together. For instance, we offer each other assistance with coding, building, and researching.
 
-And those are three of the most fun things that happened to us
+Discovery: We explore new skills and ideas together, such as using devices on the computer.
 
-### Other Fun
+Innovation: We use creativity and persistence to solve problems. We build robotics to solve problems like coding the robot.
 
-* An example of the fun that we had was when the axle on the robot kept getting stuck into a hole in the mission. It was a lot of fun to see the rare event happen over and over again.
+Impact: We apply what we learn to improve the world. We learn together to help the world with our ideas.
 
-* An example of fun is also when we got to have pizza as a team. It was a good time to discuss and talk about things we need to improve or that we did good at.
+Inclusion: We respect each other's ideas for innovation projects and embrace our differences.
 
-![Pizza Time!](https://drive.google.com/uc?export=view&id=166umVjLZmIc5NHr8BCp2DWrAgWHdy6OT)
-
-## Inclusion
-
-* Inclusion means that we include everybody and let everyone do a job, such as one person being the coder and one the builder.
-* We allow anyone to be a part of the team.
-* We respect everyone's opinions, ideas, and differences.
-
-### An Example
-
-* If one person is not doing a job, and is left out, this means that the other team members must use inclusion and let the left out person have a job.
-* Inclusion is especially strong if the team also uses teamwork alongside inclusion, and everybody can help tackle a difficult problem.
-
-![Team](https://drive.google.com/uc?export=view&id=1rIlEMuT-GuGDObDcju6xj1Xwolqd9rPQ)
-
-## Teamwork
-
-* Teamwork means that we are better and stronger as a team. We work together and overcome challenges with each other. We combine each other's ideas and come up with new and better ideas.
-
-* We listen to each other and all play a role in the team. Our teamwork pays off as we continue. Without each other, we would have a hard time working.
-
-* One example is when we needed to change the hub out at a competition, Ryan gave us the hub, while Antoni took off the old hub. Aidan took off the pins and helped Antoni put the new hub for the robot. Ariana and Anika helped the boys finish off the new bot. Our teamwork lets us finish off tasks quickly.
-
-![Teamworking](https://drive.google.com/uc?export=view&id=1BZoFy6W_mGTKPStObYZZxEaOABjTDWpY)
+Fun: We enjoy and celebrate what we do! We had a great time together coding, building, and working on the innovation project.

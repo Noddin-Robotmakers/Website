@@ -1,35 +1,39 @@
 <!-- markdownlint-disable MD033 -->
 
-# Hello from Noddin RobotMakers
+# Greetings from Noddin RobotMakers
 
 ## Introduction
 
-Hi there! We are a team of five students from Noddin Elementary School participating in a robotics competition called FLL (First Lego League). Our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. For those who are not familiar with FLL, it is a robotics competition and we code the robots we build to do certain tasks. We use Pybricks Beta, a Python coding software. We keep the code for the robot to perform various missions in this repository.
+Hello! We're a team of five students from Noddin Elementary School called the RobotMakers,
+participating in the First Lego League (FLL) robotics competition.
+Our team consists of Anika, Aidan, Ryan, Antoni, and Ariana.
+FLL challenges us to build and code robots using Pybricks Beta, a Python-based software, to complete various missions. 
+This repository is where we store our code.
 
-## Innovation
+## Innovation Project: Ski Goggles for the Visually Impaired
 
-Our innovation project is worth 25 percent of our overall score. This project aims to assist blind or disabled people in skiing. We have developed ski goggles equipped with sensors that provide directions like "Go left" or "Go right". The goggles also alert the user of any potential danger, including cliffs or steep drops. We have created slides explaining how we conducted the project, which you can find via this link. Our process began with researching organizations and then reaching out to the top five websites via email. Finally, we constructed prototypes to aid people with disabilities. Our innovation will help improve and help the world.
+Our innovation project, which is a significant part of our FLL score,
+focuses on making skiing more accessible for the blind or visually impaired.
+We’ve conceptualized ski goggles integrated with sensors that guide the user with audio cues like "Go left" or "Go right"
+and warn them of potential hazards such as cliffs or steep drops.
 
-## Core Values
+### How We Developed Our Project
 
-Remember these six Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun. As a team, it is essential to demonstrate these values during the competition. Here's what each Core Value means:
+- **Research**: We started by exploring how we could assist individuals with disabilities in skiing. 
+Our investigation led us to the idea of smart ski goggles.
 
-Teamwork: We are stronger when we work together. For instance, we offer each other assistance with coding, building, and researching.
+- **Outreach**: We contacted organizations and experts through the top five websites we found,
+seeking insights and feedback.
 
-Discovery: We explore new skills and ideas together, such as using devices on the computer.
+- **Prototyping**: With the information gathered, we built prototypes of the ski goggles
+designed to aid visually impaired skiers.
 
-Innovation: We use creativity and persistence to solve problems. We build robotics to solve problems like coding the robot.
-
-Impact: We apply what we learn to improve the world. We learn together to help the world with our ideas.
-
-Inclusion: We respect each other's ideas for innovation projects and embrace our differences.
-
-Fun: We enjoy and celebrate what we do! We had a great time together coding, building, and working on the innovation project.
+This project not only challenges us to think innovatively but also offers a chance to contribute positively to the world.
 
 ![Our team at the scrimmage](https://drive.google.com/uc?export=view&id=19FzbHOy3OIH4JUkiMoLXOp3r7Wb1ECbq)
 
 [![Watch the video](https://img.youtube.com/vi/gz8UgMTxCSI/default.jpg)](https://youtu.be/gz8UgMTxCSI)
 
 <a href="https://youtu.be/gz8UgMTxCSI">
-  <img src="url_to_thumbnail.jpg" alt="Video Thumbnail" width="300" height="200">
+  <img src="url_to_thumbnail.jpg" alt="Video Thumbnail" width="700" height="600">
 </a>
