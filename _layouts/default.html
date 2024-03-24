@@ -20,7 +20,7 @@
 
   <body>
 
-    <header style="position: fixed; background-color: #022a82; padding-left: 300px; width: 100%; left: 0;">
+    <header style="position: fixed; background-color: #022a82; padding-left: 25%; width: 100%; left: 0;">
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -34,11 +34,11 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
-        <aside id="sidebar" style="position: fixed; top: 300px; width: 200px; left: 50px;">
+        <aside id="sidebar" style="position: fixed; top: 300px; width: 20%; left: 10%;">
           {% include navigation.html %}
         </aside>
 
-        <section id="main-content" style="margin-left: 100px; padding-top: 250px;">
+        <section id="main-content" style="margin-left: 30%; padding-top: 250px;">
           {{ content }}
         </section>
       </div>
