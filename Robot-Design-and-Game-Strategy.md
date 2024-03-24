@@ -1,38 +1,29 @@
-# Robot Game Strategy
+# Our Robot Game Strategy and Design Process
 
-Our strategy for the game was to choose some missions that were easy and quick. Then we made attachments for those missions.
-After that, we moved on to making attachments for harder missions and testing them.
-We learned about different types of attachments, and what attachments are best for which task.
+When it comes to this 2023-2024 FLL Challenge season's Robot Game, there are many missions to complete. However, not all 15 missions are worth spending time on. To make the most of the __2.5-minute time limit__, we need to carefully consider which missions are worth doing and which ones aren't.
+
+## Strategy
+
+To do this, we need to come up with a __strategy__. One approach we can take is to think and create a __route__ that allows us to efficiently complete as many missions as possible. By doing this, we can prioritize the most important missions and avoid wasting time on ones that don't contribute much to our overall score.
+
+## Base Bot
+
+Once we have a strategy in place, the next step is to __design our Base Bot__. It's important to make our Base Bot __small and sturdy__ so that it can move around the field easily and withstand any collisions or obstacles.
 
 ## Attachments
 
-### Types of attachments
+In addition to our base bot, we also need to __design attachments__ that will help us complete specific challenges. When designing these attachments, we need to make sure that they are based on the movement we need to complete the mission. We also consider if the attachment needs __active attachment motor power__ or it just needs to be __passively driven__ by the Base. This means that we need to carefully consider the requirements of each mission and design our attachments accordingly.
 
-We made two types of attachments, passive and active.
+## Testing and Iterating
 
-* Passive attachments don't need motors or electronics. They are very useful because the robot only has two motors for attachments. They are a lot simpler and easier to work with than active attachments.
+After we have designed our attachments, the next step is __testing__. We need to use our bot and turn the gears to see if the attachment works as intended. If it does, we can move on to the next attachment. However, if the attachment doesn't work, we need to __re-design__ it until it does the specific mission.
 
-* Active attachments need one or two motors to operate the attachment. These are helpful when completing a mission that doesn't have a clear path because the attachment can move independently from the robot, unlike passive attachments.
-
-### Attachment Testing
-
-* Each attachment had to be efficient and work at least 5-10 times before we were confident about the attachment working.
- It took a long time to make them work but it was worth it for the points.
- We made sure it worked multiple times so that we wouldn't have any doubts about it not working.
-
-### Attachment Utility
-
-* When we made the plan for the attachments, we carefully considered how to use attachments for more than one purpose.
- This way, we could save time because we didn't have to put on extra attachments, test them, or carry them around.
-
-## Mission strategies
-
-* We chose missions that were close to the home area, and that were on the way to/back from other missions.
-* We got the size bonus, which means that all of our attachments and the robot fit in one launch area, which earns us 20 pts.
+By following these steps, we can maximize our score within the time limit and complete as many missions as possible.
+Our strategy for the game was to choose some missions that were easy and quick. Then we made attachments for those missions.
 
 ## Missions we completed
 
-* We also did the 3D Cinema(20 pts)
+* 3D Cinema(20 pts)
 * Theater Scene Change (which is 50 points with the pink - pink matching bonus)
 * Immersive Experience (20 pts)
 * Masterpiece (10 pts with the 20 pts bonus)
@@ -46,8 +37,4 @@ We made two types of attachments, passive and active.
 * Craft Creator (10 pts for the lid, and 20 pts for the machine)
 * Expert Delivery(10 pts)
 * Audience Delivery (40 pts)
-* We usually have 50 pts in precision tokens remaining. We can complete 12 missions, and our maximum number of points is 430 pts.
-
-## Testing
-
-* We did a lot of testing and changed how a lot of the attachments worked. Code was also faulty most of the time. We had a hard time but it was worth it.
+* We usually have 50 pts in precision tokens remaining. We can complete 12 missions, and our maximum number of points is 445 pts.
