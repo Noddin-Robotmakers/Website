@@ -1,14 +1,17 @@
 <!-- markdownlint-disable MD033 -->
 
-# Greetings from Noddin RobotMakers
+# Hello from Noddin Robotmakers!
 
 ## Introduction
 
-Hello! We're a team of five students from Noddin Elementary School called the RobotMakers,
-participating in the First Lego League (FLL) robotics competition.
-Our team consists of Anika, Aidan, Ryan, Antoni, and Ariana.
-FLL challenges us to build and code robots using Pybricks Beta, a Python-based software, to complete various missions. 
-This repository is where we store our code.
+Hello! We're a team of five students from Noddin Elementary School called the Robotmakers,
+participating in the First Lego League (FLL) robotics competition. Our team consists of Anika, Aidan, Ryan, Antoni, and Ariana. FLL challenges us to build and code robots using Pybricks Beta, a Python-based software,
+to complete various missions. This repository not only houses our code but also serves as a gateway
+to the various aspects of our project and team dynamics.
+
+Within this site, you'll find pages that delve into who we are, our journey, the core values that guide us,
+our strategies for the robot game, our programming adventures, collaborative efforts, innovation projects,
+the tools that have empowered us, and a gallery showcasing our experiences.
 
 ## Innovation Project: Ski Goggles for the Visually Impaired
 
