@@ -1,45 +1,52 @@
-# _FIRST_ Core Values
 
-## Impact
+# What Are FLL Core Values?
 
-* We apply what we learned and use it to improve the world. Our information is useful and can help us or the world learn and wonder about new things.
-* One example we impact the world is our research for the Innovation Project. The research we did will improve the world for us and other people by giving us new solutionsfor our problems. We will solve many problems with our innovations and ideas.
+The FIRST Lego League (FLL) is more than a robotics competition; it's a program that helps young minds develop critical skills for the future. Central to its philosophy are the Core Values, principles that guide teams not only in how they approach challenges but also in how they work together and impact their communities. These values are designed to foster respect, collaboration, and a love for learning and innovation.
 
-* An example of impact is for our innovation project we can impact disabled people by allowing them to ski without any worries or problems about their disabilities.
+## The Core Values
 
-## Fun
+- **Teamwork**: Collaboration is key. FLL emphasizes the strength found in working together, encouraging teams to support each other and share their unique skills.
 
-### We've Had Tons of Fun
+- **Discovery**: Participants are encouraged to explore new skills and ideas, driving innovation and creative problem-solving.
 
-Robotics is very hard, so we have learned to have fun to overcome the challenges together.
+- **Innovation**: FLL teams use creativity and critical thinking to solve problems, often leading to novel solutions and advancements.
 
-We are positive and celebrate both sucesses and failures.
- Our funny stories and memories are all shared by different team members.
-FLL is fun and we all have fun working together. Fun is important in this team.
+- **Impact**: Applying what they learn, teams aim to make a positive difference in their communities and the world.
 
-Some fun things that happened were eating pizza together, high scores in the robot games, and some mission mix-ups.
+- **Inclusion**: Every member's ideas and abilities are valued, creating a welcoming environment where diversity is celebrated.
 
-### Pizza Parties
+- **Fun**: Perhaps most importantly, FLL believes that learning and teamwork should be joyful experiences. Celebrating achievements and enjoying the process are essential parts of the journey.
 
-We ate pizza pretty commonly, mostly when sessions ran over lunchtime or dinnertime.
-This was also a good time for us to review our progress and what we needed to work on.
-The pizza also helped us regain some energy after long hours of work and testing.
+## Why Are These Values Important?
 
-### High Robot game scores
+The FLL Core Values go beyond the competition; they prepare participants for future challenges and opportunities. By embracing these principles, teams learn not just how to build robots, but how to build character, foster teamwork, and make meaningful contributions to society. These values lay the foundation for a positive, inclusive, and impactful experience, ensuring that every participant comes away with valuable life lessons.
 
-High scores in our robot game were pure practice.
-It was fun when we had to change the code and then## Core Values
+In the end, FLL is about more than robots. It's about nurturing the next generation of innovators, leaders, and problem-solvers, equipped with the skills and values they need to make the world a better place.
 
-Remember these six Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun. As a team, it is essential to demonstrate these values during the competition. Here's what each Core Value means:
+# How We Embody the _FIRST_ Core Values
 
-Teamwork: We are stronger when we work together. For instance, we offer each other assistance with coding, building, and researching.
+## Embracing Impact
 
-Discovery: We explore new skills and ideas together, such as using devices on the computer.
+In our journey through the FIRST Lego League (FLL), we've learned to harness our knowledge and skills to make a tangible impact on the world. Our commitment to applying what we've learned extends beyond the competition; it's about contributing to our community and beyond, sparking curiosity and innovation.
 
-Innovation: We use creativity and persistence to solve problems. We build robotics to solve problems like coding the robot.
+### Making a Difference
 
-Impact: We apply what we learn to improve the world. We learn together to help the world with our ideas.
+Our innovation project stands as a testament to our dedication to impact. By focusing on solutions that assist disabled individuals in skiing, we've not only tackled a significant challenge but have also opened doors for new possibilities, making sports more accessible and enjoyable for everyone.
 
-Inclusion: We respect each other's ideas for innovation projects and embrace our differences.
+### Examples of Our Impact
 
-Fun: We enjoy and celebrate what we do! We had a great time together coding, building, and working on the innovation project.
+- **Innovation for Accessibility**: Our research and development efforts aim to empower disabled individuals, allowing them to experience the thrill of skiing without the constraints of their disabilities. This initiative reflects our belief in creating solutions that cater to everyone, enhancing inclusivity in sports and leisure activities.
+
+## Celebrating Fun
+
+Amidst the complexities of robotics, we've discovered the importance of fun. It's the glue that binds us together, helping us navigate challenges with a positive spirit. Our approach to FLL is infused with joy, celebrating successes, learning from failures, and cherishing every moment of our journey.
+
+### Moments of Joy
+
+- **Pizza Parties**: Sharing meals, particularly pizza, has become a cherished tradition for us, especially during long sessions. These moments aren't just about enjoying delicious food; they're opportunities for us to bond, reflect on our progress, and re-energize for the tasks ahead.
+
+- **High Scores and Happy Accidents**: Achieving high scores in robot games is always a cause for celebration. But equally memorable are the mix-ups and unexpected outcomes that sometimes occur. These instances teach us resilience and remind us that perfection is not the goal—perseverance and teamwork are.
+
+### Why Fun Matters
+
+For us, fun is not just a break from work; it's an integral part of our creative and problem-solving processes. It fosters a positive atmosphere that encourages experimentation and innovation. Our shared laughter and joyous celebrations make our FLL experience uniquely rewarding and memorable.
