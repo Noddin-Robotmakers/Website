@@ -6,4 +6,9 @@
 .inner {
   display: flex;
   flex-direction: row;
-} 
+}
+
+nav ul {
+  list-style-type: none;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}
