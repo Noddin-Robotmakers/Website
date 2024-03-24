@@ -22,7 +22,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Anika Gupta</h3>
-      Anika's favorite colors are black and white. She loves painting, dancing, volleyball and scouting.
+      Anika's favorite colors are black and white. She loves painting, dancing, volleyball and scouting. She is outdoorsy. She likes camping with her scout friends. She likes to do science experiments.
     </div>
   </div>
 
@@ -52,7 +52,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Ryan Lee</h3>
-      Ryan's favorite color is turquoise. His favrite hobbies are pickleball, baking/cooking, playing chess and video games.
+      Ryan's favorite color is turquoise. His favrite hobbies are pickleball, baking/cooking, playing chess and video games. He likes to do 3D printing with his older brother.
     </div>
   </div>
 
