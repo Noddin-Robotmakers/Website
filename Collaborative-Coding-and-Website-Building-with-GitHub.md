@@ -16,18 +16,10 @@ SourceTree makes it a lot simpler for us to work with Git, with is a difficult t
 
 ## Collaborative Coding for Team Website
 
-Our team recently embarked on a new venture to create a website that encapsulates all of our learning processes and cherished memories. After researching various tools and platforms, we decided to use **GitHub Pages** for its ease of use and integration with our existing workflows.
+After we finished our robot game project, we decided to work on something new: a website to share all our learning experiences and memories. We chose to use GitHub Pages because it was easy to use and we already knew how to work with GitHub. 
 
-### Learning Journey with GitHub Pages
+## Tools
 
-Through our journey of building the team website with GitHub Pages, we've gained valuable skills and insights:
+While working with GitHub Pages we have learned related tools for website building. We used Markdown to write content on the pages. Jekyll then turns the Markdown files to the web pages. HTML helps us adjust the layout. CSS helps us change the look and feel to make them visually nice. We even figured out how to add videos and pictures to our pages to make them look cool.
 
-- **Jekyll Static Website Tool**: We dove into Jekyll, learning how to leverage this powerful tool to generate static websites directly from our GitHub repository. This knowledge enabled us to structure our website efficiently and dynamically.
-
-- **Proficiency in Markdown, HTML, and CSS**: Our work required a deep dive into Markdown for writing content, HTML for structuring our web pages, and CSS for styling. These skills were crucial in developing a site that is not only functional but also visually appealing.
-
-- **Incorporating Multimedia Elements**: Adding videos and pictures to our pages brought our memories and learning experiences to life. This aspect of web development taught us how to enrich our site's content and engage our audience more effectively.
-
-### Reflections on Our Collaborative Experience
-
-Building our website with GitHub Pages proved to be both an enjoyable and educational endeavor. It was a process that not only brought us closer as a team but also enhanced our technical skills in web development. We eagerly anticipate continuing our collaborative efforts and further developing our website in the future.
+Overall, we have had a great time working together on our website. It was cool to be able to use all these different tools to make things easier and learn new things.
