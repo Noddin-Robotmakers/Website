@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD026 MD033 -->
 
 # Hello from Noddin Robotmakers!
 
@@ -22,7 +22,7 @@ and warn them of potential hazards such as cliffs or steep drops.
 
 ### How We Developed Our Project
 
-- **Research**: We started by exploring how we could assist individuals with disabilities in skiing. 
+- **Research**: We started by exploring how we could assist individuals with disabilities in skiing.
 Our investigation led us to the idea of smart ski goggles.
 
 - **Outreach**: We contacted organizations and experts through the top five websites we found,
