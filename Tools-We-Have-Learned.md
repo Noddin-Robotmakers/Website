@@ -17,7 +17,7 @@
 
   <div style="display: flex; align-items: stretch;">
     <div style="flex: 1; display: flex;">
-      <img src="Media/Images/Learned-Tools/Visual Studio Code" alt="" style="width: 100%; object-fit: cover;"/>
+      <img src="Media/Images/Learned-Tools/Visual Studio Code.png" alt="" style="width: 100%; object-fit: cover;"/>
     </div>
     <div style="flex: 2; padding: 20px;">
       We use Visual Studio Code to orginize our code and keep it clean with automated code checkers
@@ -27,7 +27,7 @@
 </div>
 <div style="display: flex; align-items: stretch;">
     <div style="flex: 1; display: flex;">
-      <img src="Media/Images/Learned-Tools/Sourcetree" alt="" style="width: 100%; object-fit: cover;"/>
+      <img src="Media/Images/Learned-Tools/Sourcetree.png" alt="" style="width: 100%; object-fit: cover;"/>
     </div>
     <div style="flex: 2; padding: 20px;">
      We use Sourcetree to make it easy to commit code from our laptop to Github.
@@ -35,7 +35,8 @@
   </div>
 
 </div>
-# Design Tools
+
+## Design Tools
 
 <div style="display: flex; flex-direction: column;">
 
