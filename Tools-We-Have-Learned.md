@@ -2,6 +2,30 @@
 
 # Tools We Have Learned
 
+# Design Tools
+
+<div style="display: flex; flex-direction: column;">
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/Figma.png" alt="Figma" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      We use Figma to design our poster and team shirt.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/TinkerCAD.png" alt="TinkerCAD" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      We use TinkerCAD to design the 3D modle.
+    </div>
+  </div>
+
+</div>
+
 ## Google Collaboration Tools
 
 <div style="display: flex; flex-direction: column;">
