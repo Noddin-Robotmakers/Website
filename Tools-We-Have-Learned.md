@@ -36,7 +36,7 @@
 
 </div>
 
-## Website Delovopment Tools
+## Website Development Tools
 
 <div style="display: flex; flex-direction: column;">
 
