@@ -36,6 +36,49 @@
 
 </div>
 
+## Website Delovopment Tools
+
+<div style="display: flex; flex-direction: column;">
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/Markdown.png" alt="" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      We use Markdown to write the content of our web pages.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/HTML.png" alt="" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+    We use HTML to control the layout of our web pages.
+    </div>
+  </div>
+
+</div>
+<div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/CSS.png" alt="" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+     We use CSS to make the look and feel and text characters look nice.
+    </div>
+  </div>
+
+<div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/Github pages.jpg" alt="" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+     We use Github pages to turn our code into this beatiful website.
+    </div>
+  </div>
+
+</div>
+
 ## Design Tools
 
 <div style="display: flex; flex-direction: column;">
