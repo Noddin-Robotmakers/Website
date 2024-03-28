@@ -122,15 +122,6 @@
 
   <div style="display: flex; align-items: stretch;">
     <div style="flex: 1; display: flex;">
-      <img src="Media/Images/Learned-Tools/Google-Docs.png" alt="Google Docs" style="width: 100%; object-fit: cover;"/>
-    </div>
-    <div style="flex: 2; padding: 20px;">
-      We use Google Docs to take meeting notes and to share ideas.
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: stretch;">
-    <div style="flex: 1; display: flex;">
       <img src="Media/Images/Learned-Tools/Google-Chat.png" alt="Google Chat" style="width: 100%; object-fit: cover;"/>
     </div>
     <div style="flex: 2; padding: 20px;">
@@ -140,10 +131,28 @@
 
   <div style="display: flex; align-items: stretch;">
     <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/Google-Meet.jpg" alt="Google Meet" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      We use Google Meet to have video calls with each other.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
       <img src="Media/Images/Learned-Tools/Google-Drive.png" alt="Google Drive" style="width: 100%; object-fit: cover;"/>
     </div>
     <div style="flex: 2; padding: 20px;">
       We use Google Drive to store and share our files.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: stretch;">
+    <div style="flex: 1; display: flex;">
+      <img src="Media/Images/Learned-Tools/Google-Docs.png" alt="Google Docs" style="width: 100%; object-fit: cover;"/>
+    </div>
+    <div style="flex: 2; padding: 20px;">
+      We use Google Docs to take meeting notes and to share ideas.
     </div>
   </div>
 
