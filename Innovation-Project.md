@@ -50,7 +50,7 @@ We have learned a lot from their design process. It was very inspiring to learn 
 - Most equipment is powered mostly manually with the help of gears and levers.
 - Still, over the years, there have been major improvements in technology. In one case, the user would blow into a straw and that would start up the equipment. Such a trigger mechanism is very useful for disabled people with limited movement.
 
-## Our Innovation: The *SkiChair 2.0*
+## Our Innovation: The _SkiChair_ 2.0
 
 ![SkiChair 3D Design](Media/Images/Innovation-Project/SkiChair/Wheelchair-Ski-Design-Presentation.jpg)
 
