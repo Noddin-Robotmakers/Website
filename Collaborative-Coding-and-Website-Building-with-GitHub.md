@@ -12,7 +12,7 @@ To organize our code better and help all team members know what changes we have 
 
 GitHub is really helpful for __keeping all of our Python code in one place__. We __can work on it together__, even when we don't sit together.
 
-Anika is our original GitHub administrator, and she created our GitHub organization [`Noddin-Robotmakers`](https://github.com/Noddin-RobotMakers) and invited the remaining team members to sign up for their accounts and join that organization as members.
+Anika is our original __GitHub administrator, and she created our GitHub organization [`Noddin-Robotmakers`](https://github.com/Noddin-RobotMakers)__ and invited the remaining team members to sign up for their accounts and join that organization as members.
 
 You can see [__all of our Pybricks code shared openly on GitHub__](https://github.com/Noddin-RobotMakers/RobotMakers-FLLChallenge-Masterpiece), in a repository under that organization.
 
