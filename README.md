@@ -2,21 +2,26 @@
 
 # Hello from Noddin Robotmakers!
 
-Hi there! We're a team of five students from Noddin Elementary School (San Jose, California) called the Robotmakers,
-participating in the 2023-2024 FIRST LEGO League (FLL) robotics competition.  Our team consists of Anika, Aidan, Ryan, Antoni, and Ariana.  As of March 2024, we are in the San Francisco Bay Area Regional Championship after finishing well in the [qualifier](https://youtu.be/gz8UgMTxCSI) in December.
+![Robotmakers Team at Scrimmage](Media/Images/Robotmakers-Team-at-Scrimmage.jpg)
 
-Within this site, you'll find pages that talk about who we are, our robotics learning journey, our strategies and design process, our programming methods,  our collaboration tools, our Innovation Project, a gallery with our pictures, and more! Below you will find interesting highlights.
+Hi there! We're a team of five students from Noddin Elementary School (San Jose, California) called the Robotmakers, participating in the 2023-2024 FIRST LEGO League (FLL) robotics competition. Our team consists of Anika, Aidan, Ryan, Antoni and Ariana. As of March 2024, we are in the San Francisco Bay Area Regional Championship after finishing well in the [qualifier](https://youtu.be/gz8UgMTxCSI) in December.
 
-## Coding Our Bot with Pybricks(Python)
+![Robotmakers Team at Qualifier](Media/Images/Robotmakers-Team-at-Qualifier.jpg)
 
-We use [Pybricks](Python-Programming-with-Pybricks), the best open-source Python library for LEGO robotics. Pybricks is useful because it is precise and easy to read for all team members. Pybricks also supports us with a few advanced functionalities for running multiple programs and using special drive base control.
+Within this site, you'll find pages that talk about [who we are and how we've got together](Who-We-Are-and-How-We-Got-Together), [our robot game strategies and design process](Robot-Game-Strategy-and-Design-Process), [our programming methods](Python-Programming-with-Pybricks), [our Innovation Project](Innovation-Project), [the many tech tools we have learned](Tools-We-Have-Learned), a [gallery](Gallery) with our pictures, and much more about our learning journey and memories together!
 
-## Innovation project
+Below are a few interesting highlights.
 
-For our [Innovation Project](Innovation-Project), we focus on researching skiing because our team loves it and would like to help disabled people enjoy skiing too. We've come up with a design named SkiChair 2.0 that lets you sit down and still ski. We started by researching how we could assist individuals with disabilities in skiing, then reached out to organizations and experts for insights and feedback. After expert feedback from [Maine Adaptive Sports & Recreation](https://maineadaptive.org/), we have improved our design and 3D-printed our prototype.
+## Coding Our Robot with Pybricks
 
-## Collaboration and Website Building on Github
+We use [__Pybricks__](Python-Programming-with-Pybricks), the __best open-source Python library for LEGO robotics__. Pybricks is useful because it is precise and because Python, which Pybricks is based on, is easy to read for all team members. Pybricks also supports us with a few advanced functionalities for running multiple programs and using special drivebase control.
 
-We have created and managed our own [Github](Collaborative-Coding-and-Website-Building-with-GitHub) organization. We used Github to help collaborate when we weren't when each other. It was helpful because other people could double-check for mistakes and make more improvements on what you have written or changed.
+## Innovation Project on Skiing for Disabled People
 
-We have also used Github Pages to make the website you are on right now! Hope you enjoy your time here. Feel free to browse other pages on the sidebar.
+For our [Innovation Project](Innovation-Project), we focus on researching skiing because our team loves it and would like to __help disabled people enjoy skiing__ too. We've come up with a design named _SkiChair_ 2.0 that lets you sit down and still ski. We started by researching how we could assist individuals with disabilities in skiing, then reached out to organizations and experts for insights and feedback. After expert advice from [Maine Adaptive Sports & Recreation](https://maineadaptive.org), we have improved our design and 3D-printed our prototype.
+
+## Collaboration and Website Building on GitHub
+
+We have created and been managing our own [__GitHub__](Collaborative-Coding-and-Website-Building-with-GitHub) __organization__. We use GitHub to help us collaborate when we are not sitting together. Through GitHub, we can store and track our Python code, review each other's code changes to avoid mistakes, and make many improvements over time.
+
+We have also __used Github Pages to make the website you are on right now__! We hope you enjoy your time here. Feel free to browse other pages on the sidebar.
