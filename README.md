@@ -24,4 +24,4 @@ For our [Innovation Project](Innovation-Project), we focus on researching skiing
 
 We have created and been managing our own [__GitHub__](Collaborative-Coding-and-Website-Building-with-GitHub) __organization__. We use GitHub to help us collaborate when we are not sitting together. Through GitHub, we can store and track our Python code, review each other's code changes to avoid mistakes, and make many improvements over time.
 
-We have also __used Github Pages to make the website you are on right now__! We hope you enjoy your time here. Feel free to browse other pages on the sidebar.
+We have also __used GitHub Pages to make the website you are on right now__! We hope you enjoy your time here and explore our other pages listed on the sidebar.
