@@ -16,23 +16,31 @@ We have helped each other fix many problems. For example, during the Qualifier, 
 
 We love picking up new knowledge and skills, and have learned to use [__near 20 tech tools__](Tools-We-Have-Learned) well to aid our collaborative work. We have also become more knowledgeable about science and engineering.
 
-Some of our favorite learnings are: [programming with Python](Python-Programming-with-Pybricks), [using GitHub for collaboration and making this website](Collaborative-Coding-and-Website-Building-with-GitHub), and designing and testing many LEGO attachment mechanisms.
+Some of our favorite learnings are: [__programming with Python__](Python-Programming-with-Pybricks), [__using GitHub for collaboration and making this website__](Collaborative-Coding-and-Website-Building-with-GitHub), and designing and testing many LEGO attachment mechanisms.
 
 ## Innovation
 
-FLL teams use creativity and critical thinking to solve problems, often leading to great solutions. Our innovation project is about helping blind people or disabled people ski, and we made a design called the
-SkiChair 2.0. We started by researching and contacting organizations and sending emails to the top five. After an interview and feedback, we improved the model and 3D printed it.
+![SkiChar 3D Design](Media/Images/Innovation-Project/SkiChair/Wheelchair-Ski-Design-Presentation.jpg)
+
+We have really enjoyed doing our [Innovation Project](Innovation-Project), which focuses on researching how to __make skiing easier for disabled people__. We have learned that disabled athletes have great perseverance, and that some creative problem-solvers have come up with innovative sport equipment for disabled people.
+
+We have learned from experts in adaptive sports, especially from [Maine Adaptive Sports & Recreation](https://maineadaptive.org), who has given us detailed advice and feedback, which has helped us make good 3D prototype.
 
 ## Impact
 
-We make a positive difference in their communities and the world by doing our Innovation Project. We want to make an impact in the world with our model and hope that it will change the lives of some disabled people. Additionally, we want to help out other FLL teams by [sharing all our Pybricks](https://github.com/Noddin-RobotMakers/RobotMakers-FLLChallenge-Masterpiece/) and [website code](https://github.com/Noddin-RobotMakers/Website) so they can also learn Python and perhaps Github.
+We can make a positive difference to the community by our creative ideas such as through our Innovation Project, which aims to help disabled people enjoy skiing.
+
+Additionally, we are [__sharing all of our Pybricks code__](https://github.com/Noddin-RobotMakers/RobotMakers-FLLChallenge-Masterpiece/) and [__our website code__](https://github.com/Noddin-RobotMakers/Website) so other and future FLL teams could benefit from what we have learned.
 
 ## Inclusion
 
-Every member's ideas and abilities are valued, and we respect everyone. We know each team member's strengths and split up the work so everybody gets a task that they like. We have a lot of work, and sometimes our youngest team member, Ariana(who is in 2nd grade) does it. We help her with things she doesn't know and she is a great help to our team.
+We have learned to value each other's ideas and hard work, even though we don't always agree. We know each team member's strengths and split up the work so everybody gets a task that they can do well at for our team.
+
+Even our __youngest team member Ariana, who is in 2nd grade, has been assigned to do a lot of important work__. For example, __she has done the most in building this website, with the help of the rest of us__, who originally knew more than she did about certain skills and tools.
 
 ## Fun
 
-But most importantly, We believe that learning and teamwork should be happy experiences. Celebrating achievements and enjoying the season is part of the journey. The way we represent fun is that sometimes, rare things happen and we always take pictures of them and save them for laughs. We also sometimes have [pizza together](Gallery) on occasions like qualifying to Regionals.
+![Yum!](Media/Images/Yum!.jpg)
+![Pizza Time](Media/Images/Pizza-Time.jpg)
 
-In the end, FLL is about more than robots. It's about innovating, teamwork, and having fun, equipped with the skills and values they need to make the world a better place.
+We have been very happy with our learning journey and had many nice memories with each other this season!
