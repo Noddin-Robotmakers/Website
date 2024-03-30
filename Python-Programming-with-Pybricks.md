@@ -92,7 +92,7 @@ solve_m1_and_return_to_base()
 
 ### Mission #6
 
-In Mission #6 we deliver a expert and audience member and push into the Light Show. We also do the Lights and Sounds.
+In Mission #6 we deliver an expert and an audience member and push into the Light Show. We also do the Lights and Sounds.
 
 ```python
 # IMPORTS
