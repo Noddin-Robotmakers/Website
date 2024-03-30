@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-# Who We Are and How We Got Together
+# Who We Are and How We've Got Together
 
 ## Fun Facts about Each of Us
 
@@ -12,7 +12,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Aidan Callebaut</h3>
-      Aidan favors the colors blue and green. He enjoys robotics, video games, and sports. He has been playing the piano since he was 5 years old. He loves math, reading, and running. His favorite food is sushi.
+      Aidan likes the colors blue and green. He enjoys robotics, video games and sports. He has been playing the piano since he was 5 years old. He loves math, reading and running. His favorite food is sushi.
     </div>
   </div>
 
@@ -22,7 +22,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Anika Gupta</h3>
-      Anika's favorite colors are black and white. She loves painting, dancing, volleyball and scouting. She is outdoorsy. She likes camping with her scout friends. She likes to do science experiments.
+      Anika's favorite colors are black and white. She loves painting, dancing, volleyball and scouting. She is outdoorsy. She likes camping with her scout friends. She loves doing science experiments.
     </div>
   </div>
 
@@ -32,7 +32,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Antoni Luong-Pham</h3>
-      Antoni has a fondness for the colors blue, black, and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring Robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotic systems, such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.
+      Antoni has a fondness for the colors blue, black and green. In his free time, he likes to play and tinker with LEGO. During the pandemic, he started exploring robotics and was soon introduced to FLL. Antoni enjoys experimenting with various robotics systems such as EV3, SPIKE Prime, Robot Inventor, and VEX IQ & VEX V5.
     </div>
   </div>
 
@@ -42,7 +42,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Ariana Luong-Pham</h3>
-      Ariana's favorite color is saffire blue. She loves playing with Chemistry, especially making slime of all kinds: butter slime, clear slime, fluffy slime, cloud slime, water slime, toothpaste slime, ziplock slime, icee slime and water-bottle slime!!
+      Ariana's favorite color is saffire blue. She loves playing with Chemistry, especially making slime of all kinds: butter slime, clear slime, fluffy slime, cloud slime, water slime, toothpaste slime, ziplock slime, icee slime and water-bottle slime!! Of our five team members, Ariana in particular really loves making this website and has spent many, many hours on it.
     </div>
   </div>
 
@@ -52,7 +52,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Ryan Lee</h3>
-      Ryan's favorite color is turquoise. His favrite hobbies are pickleball, baking/cooking, playing chess and video games. He likes to do 3D printing with his older brother.
+      Ryan's favorite color is turquoise. His favorite hobbies are pickleball, baking and cooking, and playing chess and video games. He likes to do 3D printing with his elder brother.
     </div>
   </div>
 
@@ -69,10 +69,13 @@ We have known each other for several years at Noddin Elementary School in San Jo
 
 ## Passion for Robotics
 
-We all liked and wondered about Robotics so we got together to form this team.
+![Robotmakers Team at Practice Table](Media/Images/Robotmakers-Team-at-Practice-Table.jpg)
 
-- Anika has got inspiration and coaching from her brother, and got inspised to do FLL
-- Aidan has loved coding and building, ever since he got a robotics set.
-- Antoni and Ariana have been doing FLL Explore for 2 years already.
+We all like and are very curious about robotics, so we have got together to form the Robotmakers team.
 
-Our skills contribute to the team so we will continue reaching higher goals and challenges.
+- Anika has got inspiration and coaching from her elder brother, who has done FLL many times;
+- Aidan has loved building and coding ever since he got his first robotics set;
+- Antoni and Ariana have been doing FLL Explore for 2 years; and
+- Ryan has always loved building with LEGO and really enjoys doing robotics and coding with his best friends.
+
+Our skills complement each other's well and we love working together to overcome challenges.
