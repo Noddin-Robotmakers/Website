@@ -58,7 +58,7 @@
 
 </div>
 
-## Good Friends at Noddin
+## Close Friends at Noddin
 
 We have known each other for several years at Noddin Elementary School in San Jose, California:
 
@@ -67,7 +67,7 @@ We have known each other for several years at Noddin Elementary School in San Jo
 - __Antoni__ has known the three of us since 3rd grade (2022-2023), and
 - __Ariana__, who is Antoni's younger sister, has known us since 2023 when she entered 1st grade.
 
-## Passion for Robotics
+## Our Shared Passion for Robotics
 
 ![Robotmakers Team at Practice Table](Media/Images/Robotmakers-Team-at-Practice-Table.jpg)
 
