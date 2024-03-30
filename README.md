@@ -4,7 +4,7 @@
 
 ![Robotmakers Team at Scrimmage](Media/Images/Robotmakers-Team-at-Scrimmage.jpg)
 
-Hi there! We're a team of five students from Noddin Elementary School (San Jose, California) called the Robotmakers, participating in the 2023-2024 FIRST LEGO League (FLL) robotics competition. Our team consists of Anika, Aidan, Ryan, Antoni and Ariana. As of March 2024, we are in the San Francisco Bay Area Regional Championship after finishing well in the [qualifier](https://youtu.be/gz8UgMTxCSI) in December.
+Hi there! We're a team of five students from Noddin Elementary School (San Jose, California) called the Robotmakers, participating in the 2023-2024 FIRST LEGO League (FLL) robotics competition. Our team consists of Anika, Aidan, Ryan, Antoni and Ariana. As of March 2024, we are in the San Francisco Bay Area Regional Championship after finishing well in the [Qualifier](https://youtu.be/gz8UgMTxCSI) in December.
 
 ![Robotmakers Team at Qualifier](Media/Images/Robotmakers-Team-at-Qualifier.jpg)
 

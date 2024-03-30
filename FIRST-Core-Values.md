@@ -1,15 +1,22 @@
+# What Are _FIRST_ Core Values?
 
-# What Are FLL Core Values?
-
-At FIRST Lego League (FLL), we learn much more than just robotics. This program is designed to help us develop critical skills that will be useful in the future. The Core Values that guide our approach to challenges, teamwork, and community impact are at the center of the FLL program. These values promote respect, collaboration, a passion for learning, and innovation. We learn how to work together, think creatively, solve problems, and communicate effectively, all while having fun and making a positive impact on our communities.
+Through _FIRST_ Lego League (FLL), we have learned much more than just robotics. We have learned respecting teammates and others in the community, discovering things and tools we had not known before, solving problems with creativity and perseverance, sharing our knowledge and creations with others, valuing each other's ideas and contributions, and having fun through the challenges.
 
 ## Teamwork
 
- In FLL,  we are stronger when we work together. No teammate can do the whole Innovation Project or the Robot Game by themselves. We help and support each other no matter what. A few ways we use teamwork is that we have worked together on robot games, design, Innovation Projects, and much more for 40 meetings or 120 hours! We have helped each other fix problems: For example, in the qualifier, the bot broke down, but Ryan gave us his hub and the robot started working again.
+![Teamwork](Media/Images/Teamwork.jpg)
+
+No one team member can do the whole Innovation Project or robot game by herself or himself, so we have to collaborate and support each other. We the Robotmakers have worked together for __40 meetings__ or __150 hours__ this season!
+
+We have helped each other fix many problems. For example, during the Qualifier, __our robot hub broke down very seriously, and Ryan contributed his backup hub and the whole team worked together to rebuild the robot completely inside-out in just 20 minutes__!
 
 ## Discovery
 
-The discovery means that we explore new skills and ideas. In FLL, we learn many new tools, skills, and many other important skills. We have learned over [20 tools](Tools-We-Have-Learned) and also many new science and engineering skills. Some of our favorite skills we have learned are: making a website, using Github and Python, and also designing different Lego mechanisms.
+![Learning Pybricks](Media/Images/Learning-Pybricks.jpg)
+
+We love picking up new knowledge and skills, and have learned to use [__near 20 tech tools__](Tools-We-Have-Learned) well to aid our collaborative work. We have also become more knowledgeable about science and engineering.
+
+Some of our favorite learnings are: [programming with Python](Python-Programming-with-Pybricks), [using GitHub for collaboration and making this website](Collaborative-Coding-and-Website-Building-with-GitHub), and designing and testing many LEGO attachment mechanisms.
 
 ## Innovation
 

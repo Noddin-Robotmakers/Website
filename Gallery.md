@@ -6,7 +6,6 @@
 ![Quiet!](Media/Images/Quiet!!.jpg)
 ![Coding the Robot!](Media/Images/Coding-the-Bot.jpg)
 ![FOCUS...](Media/Images/FOCUS.jpg)
-![Me!](Media/Images/Me!!.jpg)
 ![Keepsmiling](Media/Images/Keep-Smiling.jpg)
 ![Pizza Time!](Media/Images/Pizza-Time.jpg)
 ![High Score!](Media/Images/Our-Highest-Run-at-Qualifier.jpg)
