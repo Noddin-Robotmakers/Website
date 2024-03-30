@@ -14,11 +14,11 @@ Once we have a strategy in place, the next step is to __design our Base Bot__. I
 
 ## Attachments
 
-In addition to our base bot, we also need to __design attachments__ that will help us complete specific challenges. When designing these attachments, we need to make sure that they are based on the movement we need to complete the mission. We also consider if the attachment needs __active attachment motor power__ or it just needs to be __passively driven__ by the Base. This means that we need to carefully consider the requirements of each mission and design our attachments accordingly.
+In addition to our Base Bot, we also need to __design attachments__ that will help us complete specific missions. When designing these attachments, we need to make sure that they are based on the movements we need to complete the corresponding missions. We also consider if each attachment needs __active motor power__ or it just needs to be __passively driven__ by the Base. This means that we need to carefully consider the requirements of each mission and design our attachments accordingly.
 
 ## Testing and Iterating
 
-After we have designed our attachments, the next step is __testing__. We need to use our bot and turn the gears to see if the attachment works as intended. If it does, we can move on to the next attachment. However, if the attachment doesn't work, we need to __re-design__ it until it does the specific mission.
+After we have designed our attachments, the next step is __testing__. For each attachement, we need to use our bot and turn the gears to see if the attachment works as intended. If it does, we can move on to the next attachment. However, if the attachment doesn't work, we need to __re-design__ it until it does the specific mission.
 
 ## Missions We Have Chosen to Complete
 
@@ -28,7 +28,7 @@ After we have designed our attachments, the next step is __testing__. We need to
 * Masterpiece _(10 points with the 20 points bonus)_
 * Augmented Reality Statue _(30 points)_
 * Hologram Performer _(20 points)_
-* Concert lights and sounds (10 pts for each of these)
+* Concert Lights and Sounds (10 pts for each of these)
 * Rolling Camera _(30 points)_
 * Movie Set _(10 points)_
 * Sound Mixer _(2 sliders, 10 points for each slider)_
