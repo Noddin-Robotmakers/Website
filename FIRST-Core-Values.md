@@ -24,17 +24,17 @@ Some of our favorite learnings are: [__programming with Python__](Python-Program
 
 We have really enjoyed doing our [Innovation Project](Innovation-Project), which focuses on researching how to __make skiing easier for disabled people__. We have learned that disabled athletes have great perseverance, and that some creative problem-solvers have come up with innovative sport equipment for disabled people.
 
-We have learned from experts in adaptive sports, especially from [Maine Adaptive Sports & Recreation](https://maineadaptive.org), who has given us detailed advice and feedback, which has helped us make good 3D prototype.
+We have learned from experts in adaptive sports, especially from [Maine Adaptive Sports & Recreation](https://maineadaptive.org), who has given us detailed advice and feedback, which has helped us make a good 3D prototype.
 
 ## Impact
 
 We can make a positive difference to the community by our creative ideas such as through our Innovation Project, which aims to help disabled people enjoy skiing.
 
-Additionally, we are [__sharing all of our Pybricks code__](https://github.com/Noddin-RobotMakers/RobotMakers-FLLChallenge-Masterpiece/) and [__our website code__](https://github.com/Noddin-RobotMakers/Website) so other and future FLL teams could benefit from what we have learned.
+Additionally, we are [__sharing all of our Pybricks code__](https://github.com/Noddin-RobotMakers/RobotMakers-FLLChallenge-Masterpiece) and [__our website code__](https://github.com/Noddin-RobotMakers/Website) openly, so that other and future FLL teams could benefit from what we have learned.
 
 ## Inclusion
 
-We have learned to value each other's ideas and hard work, even though we don't always agree. We know each team member's strengths and split up the work so everybody gets a task that they can do well at for our team.
+We have learned to value each other's ideas and hard work, even though we don't always agree. We know each team member's strengths and split up the work so everybody gets a task that he or she can do well at for our team.
 
 Even our __youngest team member Ariana, who is in 2nd grade, has been assigned to do a lot of important work__. For example, __she has done the most in building this website, with the help of the rest of us__, who originally knew more than she did about certain skills and tools.
 
