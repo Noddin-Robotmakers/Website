@@ -22,19 +22,19 @@ After we have designed our attachments, the next step is __testing__. For each a
 
 ## Missions We Have Chosen to Complete
 
-* 3D Cinema _(20 points)_
-* Theater Scene Change _(50 points with the pink-pink matching bonus)_
-* Immersive Experience _(20 points)_
-* Masterpiece _(10 points with the 20 points bonus)_
-* Augmented Reality Statue _(30 points)_
-* Hologram Performer _(20 points)_
-* Concert Lights and Sounds (10 pts for each of these)
-* Rolling Camera _(30 points)_
-* Movie Set _(10 points)_
-* Sound Mixer _(2 sliders, 10 points for each slider)_
-* Virtual Reality Artist _(10 points with the 20 points bonus)_
-* Craft Creator _(10 points for the lid, and 20 points for the machine)_
-* Expert Delivery _(20 points)_
-* Audience Delivery _(55 points)_
+- 3D Cinema _(20 points)_
+- Theater Scene Change _(50 points with the pink-pink matching bonus)_
+- Immersive Experience _(20 points)_
+- Masterpiece _(10 points with the 20 points bonus)_
+- Augmented Reality Statue _(30 points)_
+- Hologram Performer _(20 points)_
+- Concert Lights and Sounds _(10 points for each of these)_
+- Rolling Camera _(30 points)_
+- Movie Set _(10 points)_
+- Sound Mixer _(2 sliders, 10 points for each slider)_
+- Virtual Reality Artist _(10 points with the 20 points bonus)_
+- Craft Creator _(10 points for the lid, and 20 points for the machine)_
+- Expert Delivery _(20 points)_
+- Audience Delivery _(55 points)_
 
 We usually have 50 points in precision tokens remaining. We can complete 12 missions, and our maximum number of points is 445.
