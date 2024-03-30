@@ -1,5 +1,7 @@
 # Python Programming with Pybricks
 
+![Learning Pybricks](Media/Images/Learning-Pybricks.jpg)
+
 We have decided to use Python instead of Scratch because Python is reusable, standard, and precise. We can all __understand the code better when coding with Python__.
 
 ## Why Use Pybricks
