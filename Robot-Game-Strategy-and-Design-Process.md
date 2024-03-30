@@ -1,10 +1,12 @@
 # Our Robot Game Strategy and Design Process
 
-When it comes to this 2023-2024 FLL Challenge season's Robot Game, there are many missions to complete. However, not all 15 missions are worth spending time on. To make the most of the __2.5-minute time limit__, we need to carefully consider which missions are worth doing and which ones aren't.
+![Robot Game Strategy Session](Media/Images/Robot-Game-Strategy-Session.jpg)
+
+In this 2023-2024 FLL Challenge season's robot game, there are many missions to complete. However, not all of the 15 missions are worth spending time on. To make the most of the __2.5-minute time limit__, we need to carefully consider which missions are worth doing and which ones aren't.
 
 ## Strategy
 
-To do this, we need to come up with a __strategy__. One approach we can take is to think and create a __route__ that allows us to efficiently complete as many missions as possible. By doing this, we can prioritize the most important missions and avoid wasting time on ones that don't contribute much to our overall score.
+To do this, we need to come up with a __strategy__. One approach we take is to think up __routes__ that allow us to efficiently complete several missions along each of them. We also prioritize the missions that have high rewards and that we have a high chance of succeeding at, and we avoid wasting time on ones that don't contribute much to our overall score.
 
 ## Base Bot
 
@@ -18,23 +20,21 @@ In addition to our base bot, we also need to __design attachments__ that will he
 
 After we have designed our attachments, the next step is __testing__. We need to use our bot and turn the gears to see if the attachment works as intended. If it does, we can move on to the next attachment. However, if the attachment doesn't work, we need to __re-design__ it until it does the specific mission.
 
-By following these steps, we can maximize our score within the time limit and complete as many missions as possible.
-Our strategy for the game was to choose some missions that were easy and quick. Then we made attachments for those missions.
+## Missions We Have Chosen to Complete
 
-## Missions we completed
-
-* We also did the 3D Cinema(20 pts)
-* Theater Scene Change (which is 50 points with the pink-pink matching bonus)
-* Immersive Experience (20 pts)
-* Masterpiece (10 pts with the 20 pts bonus)
-* Augmented Reality Statue (30 pts)
-* Hologram Performer (20 pts)
+* 3D Cinema _(20 points)_
+* Theater Scene Change _(50 points with the pink-pink matching bonus)_
+* Immersive Experience _(20 points)_
+* Masterpiece _(10 points with the 20 points bonus)_
+* Augmented Reality Statue _(30 points)_
+* Hologram Performer _(20 points)_
 * Concert lights and sounds (10 pts for each of these)
-* Rolling Camera (30 pts)
-* Movie Set (10 pts)
-* Sound Mixer (2 sliders, 10 pts for each slider)
-* Virtual Reality Artist (10 pts, with the 20 pts bonus)
-* Craft Creator (10 pts for the lid, and 20 pts for the machine)
-* Expert Delivery(20 pts)
-* Audience Delivery (55 pts)
-* We usually have 50 pts in precision tokens remaining. We can complete 12 missions, and our maximum number of points is 445 pts.
+* Rolling Camera _(30 points)_
+* Movie Set _(10 points)_
+* Sound Mixer _(2 sliders, 10 points for each slider)_
+* Virtual Reality Artist _(10 points with the 20 points bonus)_
+* Craft Creator _(10 points for the lid, and 20 points for the machine)_
+* Expert Delivery _(20 points)_
+* Audience Delivery _(55 points)_
+
+We usually have 50 points in precision tokens remaining. We can complete 12 missions, and our maximum number of points is 445.
