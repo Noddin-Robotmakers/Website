@@ -22,7 +22,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Anika Gupta</h3>
-      Anika's favorite colors are black and white. She loves painting, dancing, volleyball and scouting. She is outdoorsy. She likes camping with her scout friends. She loves doing science experiments. she is a team player.
+      Anika's favorite colors are black and white. She loves painting, dancing, volleyball and scouting. She is outdoorsy. She likes camping with her scout friends. She loves doing science experiments. She is a team player and love to collobrate.
     </div>
   </div>
 
