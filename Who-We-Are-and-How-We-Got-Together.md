@@ -52,7 +52,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Ryan Lee</h3>
-      Ryan's favorite color is turquoise. His favorite hobbies are pickleball, baking and cooking, and playing chess and video games. He likes to do 3D printing with his elder brother.
+      Ryan's favorite color is turquoise. His favorite hobbies are pickleball, baking/cooking, playing chess, and playing video games. He likes to do 3D printing with his elder brother.
     </div>
   </div>
 
