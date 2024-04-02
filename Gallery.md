@@ -1,8 +1,12 @@
+# Gallery
+
 ![Yum!](Media/Images/Yum!.jpg)
 ![Smile!](Media/Images/Smile!.jpg)
 ![We are learning!](Media/Images/We-are-learning!.jpg)
-![Quiet!](Media/Images/Quiet!.JPG)
-![Tech!](Media/Images/Tech.JPG)
-![FOCUS...](Media/Images/FOCUS....JPG)
-![Me!](Media/Images/Me!.JPG)
-![Keepsmiling](Media/Images/Keepsmiling.JPG)
+![Quiet!](Media/Images/Quiet!!.jpg)
+![Coding the Robot!](Media/Images/Coding-the-Bot.jpg)
+![FOCUS...](Media/Images/FOCUS.jpg)
+![Keepsmiling](Media/Images/Keep-Smiling.jpg)
+![Pizza Time!](Media/Images/Pizza-Time.jpg)
+![High Score!](Media/Images/Our-Highest-Run-at-Qualifier.jpg)
+![Pizza for our High Score!](Media/Images/Pizza-To-Celebrate-High-Score.jpg)

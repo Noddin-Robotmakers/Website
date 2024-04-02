@@ -1,48 +1,27 @@
-[Our Game Strategy](Game-Strategy.md)
+<!-- markdownlint-disable MD026 MD033 -->
 
-[How We Got Together](How-We-Got-Together.md)
+# Hello from Noddin Robotmakers!
 
-[Coding](Coding.md)
+![Robotmakers Team at Scrimmage](Media/Images/Robotmakers-Team-at-Scrimmage.jpg)
 
-[Teamwork -- Core Values](Teamwork.md)
+Hi there! We're a team of five students from Noddin Elementary School (San Jose, California) called the Robotmakers, participating in the 2023-2024 FIRST LEGO League (FLL) robotics competition. Our team consists of Anika, Aidan, Ryan, Antoni and Ariana. As of March 2024, we are in the San Francisco Bay Area Regional Championship after finishing well in the [Qualifier](https://youtu.be/gz8UgMTxCSI) in December.
 
-[How We've Had Fun](Fun.md)
+![Robotmakers Team at Qualifier](Media/Images/Robotmakers-Team-at-Qualifier.jpg)
 
-[Discovery -- Core Values](Discovery.md)
+Within this site, you'll find pages that talk about [who we are and how we've got together](Who-We-Are-and-How-We-Got-Together), [our robot game strategies and design process](Robot-Game-Strategy-and-Design-Process), [our programming methods](Python-Programming-with-Pybricks), [our Innovation Project](Innovation-Project), [the many tech tools we have learned](Tools-We-Have-Learned), a [gallery](Gallery) with our pictures, and much more about our learning journey and memories together!
 
-[Impact-- Core Values](Impact.md)
+Below are a few interesting highlights.
 
-[Innovation -- Core Values](Innovation.md)
+## Coding Our Robot with Pybricks
 
-## Introduction
+We use [__Pybricks__](Python-Programming-with-Pybricks), the __best open-source Python library for LEGO robotics__. Pybricks is useful because it is precise and because Python, which Pybricks is based on, is easy to read for all team members. Pybricks also supports us with a few advanced functionalities for running multiple programs and using special drivebase control.
 
-Hi there! We are a team of five students from Noddin Elementary School participating in a robotics competition called FLL (First Lego League). Our team name is RobotMakers, and our names are Anika, Aidan, Ryan, Antoni, and Ariana. For those who are not familiar with FLL, it is a robotics competition and we code the robots we build to do certain tasks. We use Pybricks Beta, a Python coding software. We keep the code for the robot to perform various missions in this repository. 
-## Innovation
+## Innovation Project on Skiing for Disabled People
 
-Our innovation project is worth 25 percent of our overall score. This project aims to assist blind or disabled people in skiing. We have developed ski goggles equipped with sensors that provide directions like "Go left" or "Go right". The goggles also alert the user of any potential danger, including cliffs or steep drops. We have created slides explaining how we conducted the project, which you can find via this link. Our process began with researching organizations and then reaching out to the top five websites via email. Finally, we constructed prototypes to aid people with disabilities. Our innovation will help improve and help the world.
+For our [Innovation Project](Innovation-Project), we focus on researching skiing because our team loves it and would like to __help disabled people enjoy skiing__ too. We've come up with a design named _SkiChair_ 2.0 that lets you sit down and still ski. We started by researching how we could assist individuals with disabilities in skiing, then reached out to organizations and experts for insights and feedback. After expert advice from [Maine Adaptive Sports & Recreation](https://maineadaptive.org), we have improved our design and 3D-printed our prototype.
 
-## Core Values
+## Collaboration and Website Building on GitHub
 
-Remember these six Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun. As a team, it is essential to demonstrate these values during the competition. Here's what each Core Value means:
+We have created and been managing our own [__GitHub__](Collaborative-Coding-and-Website-Building-with-GitHub) __organization__. We use GitHub to help us collaborate when we are not sitting together. Through GitHub, we can store and track our Python code, review each other's code changes to avoid mistakes, and make many improvements over time.
 
-Teamwork: We are stronger when we work together. For instance, we offer each other assistance with coding, building, and researching.
-
-Discovery: We explore new skills and ideas together, such as using devices on the computer.
-
-Innovation: We use creativity and persistence to solve problems. We build robotics to solve problems like coding the robot.
-
-Impact: We apply what we learn to improve the world. We learn together to help the world with our ideas.
-
-Inclusion: We respect each other's ideas for innovation projects and embrace our differences.
-
-Fun: We enjoy and celebrate what we do! We had a great time together coding, building, and working on the innovation project.
-
-![Our team at the scrimmage](https://drive.google.com/uc?export=view&id=19FzbHOy3OIH4JUkiMoLXOp3r7Wb1ECbq)
-
-
-
-[![Watch the video](https://img.youtube.com/vi/gz8UgMTxCSI/default.jpg)](https://youtu.be/gz8UgMTxCSI)
-
-<a href="https://youtu.be/gz8UgMTxCSI">
-    <img src="url_to_thumbnail.jpg" alt="Video Thumbnail" width="300" height="200">
-</a>
+We have also __used GitHub Pages to make the website you are on right now__! We hope you enjoy your time here and explore our other pages listed on the sidebar.
