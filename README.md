@@ -4,9 +4,10 @@
 
 ![Robotmakers Team at Scrimmage](Media/Images/Robotmakers-Team-at-Scrimmage.jpg)
 
-Hi there! We're a team of five students from Noddin Elementary School (San Jose, California) called the Robotmakers, participating in the 2023-2024 FIRST LEGO League (FLL) robotics competition. Our team consists of Anika, Aidan, Ryan, Antoni and Ariana. As of March 2024, we are in the San Francisco Bay Area Regional Championship after finishing well in the [Qualifier](https://youtu.be/gz8UgMTxCSI) in December.
+Hi there! We're a team of five students from Noddin Elementary School (San Jose, California) called the Robotmakers, participating in the 2023-2024 FIRST LEGO League (FLL) robotics competition. Our team consists of Anika, Aidan, Ryan, Antoni and Ariana. As of April 2024, we finished the season with the __Robot Design 1st Place Award at the Northern California Championship__ and are getting ready for the next season. We have had an excellent experience, and we hope that we will achieve higher goals next season.
 
 ![Robotmakers Team at Qualifier](Media/Images/Robotmakers-Team-at-Qualifier.jpg)
+![Robotmakers Team at Championship](Media/Images/Championship/Robot-Design-1st-Place!.jpg)
 
 Within this site, you'll find pages that talk about [who we are and how we've got together](Who-We-Are-and-How-We-Got-Together), [our robot game strategies and design process](Robot-Game-Strategy-and-Design-Process), [our programming methods](Python-Programming-with-Pybricks), [our Innovation Project](Innovation-Project), [the many tech tools we have learned](Tools-We-Have-Learned), a [gallery](Gallery) with our pictures, and much more about our learning journey and memories together!
 
@@ -14,7 +15,7 @@ Below are a few interesting highlights.
 
 ## Coding Our Robot with Pybricks
 
-We use [__Pybricks__](Python-Programming-with-Pybricks), the __best open-source Python library for LEGO robotics__. Pybricks is useful because it is precise and because Python, which Pybricks is based on, is easy to read for all team members. Pybricks also supports us with a few advanced functionalities for running multiple programs and using special drivebase control.
+We use [__Pybricks__](Python-Programming-with-Pybricks), the __best open-source Python library for LEGO robotics__. Pybricks is useful because it is precise and because Python, which Pybricks is based on, is easy to read for all team members. Pybricks also supports us with a few advanced functionalities for running multiple programs and using special drive base control.
 
 ## Innovation Project on Skiing for Disabled People
 
