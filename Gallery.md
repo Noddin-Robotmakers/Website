@@ -10,3 +10,5 @@
 ![Pizza Time!](Media/Images/Pizza-Time.jpg)
 ![High Score!](Media/Images/Our-Highest-Run-at-Qualifier.jpg)
 ![Pizza for our High Score!](Media/Images/Pizza-To-Celebrate-High-Score.jpg)
+![Practice Makes Perfect!](Media/Images/Championship/Testing-Our-Bot.jpg)
+![High Score!](Media/Images/Championship/Checking-the-Score.jpg)
